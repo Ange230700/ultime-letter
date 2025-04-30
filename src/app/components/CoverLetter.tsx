@@ -16,17 +16,14 @@ export default function CoverLetter({
           <p>{header.senderEmail}</p>
           <p>{header.senderPhone}</p>
         </div>
-        <div className="text-right">
+        <div className="space-y-1 text-right">
           <p>{header.date}</p>
+          {/* Recipient */}
+          <p className="font-semibold">{header.recipientCompany}</p>
+          {header.recipientName && <p>{header.recipientName}</p>}
+          <p>{header.recipientAddress}</p>
         </div>
       </header>
-
-      {/* Recipient */}
-      <section className="mb-8">
-        <p className="font-semibold">{header.recipientCompany}</p>
-        {header.recipientName && <p>{header.recipientName}</p>}
-        <p>{header.recipientAddress}</p>
-      </section>
 
       {/* Salutation */}
       <section className="mb-6">
