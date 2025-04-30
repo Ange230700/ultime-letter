@@ -13,7 +13,7 @@ import { dirname, join } from "path";
   });
 
   const page = await browser.newPage();
-  await page.goto("https://ultime-resume.vercel.app/", {
+  await page.goto("https://ultime-letter.vercel.app/", {
     waitUntil: "networkidle0",
   });
 
