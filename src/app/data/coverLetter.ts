@@ -35,19 +35,19 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "3 Avril 2025",
-    recipientName: "",
-    recipientCompany: "Edflex",
-    recipientAddress: "44200 Nantes, France",
+    date: "5 Mai 2025",
+    recipientName: "Lucien DERHY, CTO",
+    recipientCompany: "Digitevent",
+    recipientAddress: "36 Rue Vivienne, 75002 Paris, France",
   },
-  salutation: "Madame, Monsieur,",
+  salutation: "Monsieur DERHY,",
   body: {
     introduction:
-      "Actuellement en formation Développeur Web et Mobile à l’ADA Tech School, je suis très enthousiaste à l’idée de rejoindre Edflex en tant que Développeur Fullstack en alternance à partir de septembre 2025. Votre mission d’accompagner les entreprises dans leur transformation digitale et le renouvellement des compétences me motive particulièrement, tout comme votre engagement à offrir une expérience d’apprentissage innovante et performante.",
+      "Actuellement apprenant à l’ADA Tech School et fort d’une formation initiale en bootcamp web à la Wild Code School, je suis à la recherche d’une alternance de 12 à 36 mois. Votre offre pour un poste de Développeur Fullstack en alternance au sein de Digitevent correspond à mes aspirations professionnelles et à mes compétences techniques.",
     mainContent:
-      "À travers mes différentes expériences académiques et professionnelles, j’ai acquis une solide maîtrise des technologies telles que PHP, Symfony, Composer et Twig. Lors de projets comme le développement d’un back-office pour une association sous PHP-Symfony, j’ai pu appliquer concrètement les bonnes pratiques en matière d’architecture logicielle et de gestion des API. Je suis particulièrement attiré par votre environnement technique stimulant et suis déterminé à approfondir mes connaissances en Clean Architecture et Domain Driven Design au sein de vos équipes.",
+      "Durant mes études et mes projets, j’ai cultivé une solide maîtrise de JavaScript et TypeScript, enrichie par la pratique de frameworks variés tels que Next.js, React et Angular. J’ai également exploré Spring Boot pour le backend et Chart.js pour la visualisation de données. Mon expérience avec ces technologies me permettra de m’adapter rapidement à Vue.js, qui semble être la technologie utilisée pour développer votre plateforme.\n\nRigoureux, je porte une attention particulière à la qualité du code et aux bonnes pratiques (architecture DDD, principes SOLID). Je ne cesse de renforcer mes compétences – qu’il s’agisse d’optimiser la performance, de sécuriser les endpoints ou d’améliorer l’expérience utilisateur. Ma pratique du travail en équipe et mon expérience de la méthode Agile/SCRUM me permettront de collaborer efficacement avec vos équipes tech et produit, tout en contribuant activement aux sessions de team building et aux projets transverses.\n\nRejoindre Digitevent représente pour moi une opportunité unique de mettre en pratique mes acquis dans un environnement startup dynamique. Je serais honoré de participer au développement de votre solution et de contribuer à la maintenance de votre codebase.",
     conclusion:
-      "Rigoureux, autonome, et doté d’une grande capacité d’adaptation, je suis impatient de contribuer activement aux projets ambitieux d’Edflex et d’apporter mes compétences techniques et humaines à votre collectif agile. Je serais ravi d’échanger avec vous lors d’un entretien afin de vous présenter plus en détail ma motivation et les contributions que je pourrais apporter à votre équipe.",
+      "Je me tiens à votre disposition pour un entretien afin de vous exposer plus en détail mes motivations et la valeur que je pourrais apporter à votre équipe. Disponible à partir de juin 2025, je suis prêt à m’investir pleinement dans cette alternance.\n\nDans l’attente de votre retour, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.",
   },
   closing: {
     regards: "Respectueusement,",
