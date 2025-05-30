@@ -17,7 +17,7 @@ import { dirname, join } from "path";
     waitUntil: "networkidle0",
   });
 
-  const pdfPath: string = join(__dirname, "..", "public", "resume.pdf");
+  const pdfPath: string = join(__dirname, "..", "public", "letter.pdf");
   await page.pdf({
     path: pdfPath,
     format: "A4",
