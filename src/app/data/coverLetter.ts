@@ -35,21 +35,21 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "30 mai 2025",
-    recipientName: "Responsable recrutement",
-    recipientCompany: "SAP Labs",
-    recipientAddress: "14000 Caen, France",
+    date: "2 juin 2025",
+    recipientName: "Direction des Systèmes d'Information",
+    recipientCompany: "Groupe Casino",
+    recipientAddress: "1 Esplanade de France, 42000 Saint-Étienne",
   },
   salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "Actuellement apprenant à l’ADA Tech School, je recherche activement une alternance de 12 à 36 mois à partir de juin 2025. Votre offre d'apprentissage chez SAP Labs dans le domaine du développement logiciel et de l'IA correspond beaucoup à mes compétences et à mes aspirations professionnelles.",
+      "Actuellement en formation développeur fullstack web et mobile à ADA Tech School, je recherche une alternance de 12 ou 36 mois à partir de septembre 2025. Votre offre d'apprentissage en développement d'applications web et mobiles au sein du Groupe Casino correspond parfaitement à mes compétences et à mes aspirations professionnelles.",
 
     mainContent:
-      "Mon parcours m'a permis de développer une solide expertise en technologies frontend et backend telles que TypeScript, Java, React, Next.js, et Angular. Lors de projets personnels et en équipe, notamment avec Streamia et Void Quiz, j'ai acquis une expérience concrète en authentification, gestion des droits utilisateurs et visualisation des données. Passionné par l'intelligence artificielle, l'opportunité d’intégrer SAP Joule dans SAP Convergent Charging représente un défi motivant, aligné avec mon souhait d’approfondir mes compétences dans l'automatisation et l'optimisation des processus métiers grâce à l’IA. Ma rigueur, mon adaptabilité et ma capacité à travailler efficacement au sein d’équipes agiles seront des atouts pour réussir cette alternance.",
+      "Mon parcours académique et mes expériences en développement m'ont permis d'acquérir une solide maîtrise des technologies telles que Vue.js, Node.js, TypeScript, HTML, CSS et SQL. À travers différents projets, comme la réalisation d'une application React intégrant des données via une API externe, j'ai renforcé mes compétences en gestion des données, développement frontend et architectures API REST. La perspective de contribuer à l'évolution de l'application CPRO, notamment sur les problématiques de planification des tâches et de gestion des ressources humaines, constitue pour moi une opportunité enrichissante. Ma rigueur, mon autonomie et mon esprit d'équipe seront autant d'atouts pour réussir pleinement les missions confiées dans votre environnement agile et innovant.",
 
     conclusion:
-      "Rejoindre SAP Labs serait une excellente occasion de contribuer activement à des projets innovants dans un environnement international et stimulant. Je serais ravi d'échanger avec vous lors d’un entretien afin de vous présenter en détail ma motivation et les compétences que je pourrais apporter à votre équipe. Je suis disponible à partir de juin 2025 et prêt à m’investir pleinement dans cette aventure professionnelle.",
+      "Intégrer le Groupe Casino représente pour moi l'occasion idéale de m'impliquer activement dans des projets technologiques innovants tout en développant mes compétences professionnelles. Je reste à votre entière disposition pour un entretien afin d'échanger davantage sur ma motivation et ma contribution potentielle à vos équipes.",
   },
   closing: {
     regards: "Respectueusement,",
