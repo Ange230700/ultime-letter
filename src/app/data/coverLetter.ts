@@ -35,21 +35,21 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "2 juin 2025",
+    date: "3 juin 2025",
     recipientName: "Responsable Recrutement",
-    recipientCompany: "Alobees",
-    recipientAddress: "142 Boulevard Diderot, 75012 Paris, France",
+    recipientCompany: "Amadeus",
+    recipientAddress: "Nice, France",
   },
   salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "Inspiré par la mission d'Alobees qui est de proposer des solutions digitales permettant d'améliorer les processus dans le domaine du BTP et par votre stack TypeScript full JS, je souhaite intégrer votre équipe en alternance de 12 ou 36 mois pour participer à leurs développements.",
+      "C’est avec un grand enthousiasme que je vous adresse ma candidature pour le poste d’Apprenti Développeur Frontend RefX Nevio (JavaScript/TypeScript/Angular) au sein d’Amadeus à Nice, en alternance de 12 ou 36 mois. Interessé par l’innovation digitale et motivé par la perspective de contribuer au futur de la distribution aérienne, je souhaite mettre mes compétences au service de votre équipe RefX Nevio.",
 
     mainContent:
-      "Mon parcours académique m'a permis de construire une solide maîtrise de l’écosystème JavaScript / TypeScript. Mes projets – de la plateforme vidéo *Streamia* à l’application React de visualisation des données du FBI – m’ont permis de développer des interfaces en React / Next.js, d’implémenter des API REST. Au fil de ces expériences, j’ai adopté les bonnes pratiques Git Flow, l’intégration continue et les rituels Scrum. Je suis particulièrement motivé par votre stack (ReactJS, React-Native, NodeJS / SailsJS) et par les défis de packaging, de déploiement et de performance qu’implique une solution SaaS temps réel. Rigoureux et force de proposition, je saurai collaborer via Github, Linear et Slack pour livrer des fonctionnalités fiables et scalables.",
+      "Actuellement apprenant à ADA Tech School, j’ai consolidé une solide maîtrise de l’écosystème TypeScript et des frameworks modernes tels qu’Angular, React et NodeJS. Mes projets — de la plateforme de streaming *Streamia* à l’application de data-visualisation des enquêtes du FBI — m’ont permis de concevoir des interfaces performantes, d’intégrer des API REST et d’appliquer les bonnes pratiques Git Flow, CI/CD et Scrum. Curieux et rigoureux, je mène une veille active sur l’IA générative que j’utilise déjà pour accélérer la création d’UI et la génération de tests, démarche en phase avec votre volonté d’intégrer l’IA dans RefX pour livrer rapidement des démonstrations percutantes. Fort de l'expérience acquise lors de mes projets, je saurai maintenir la plateforme de démo, contourner les limitations techniques au besoin et développer des fonctionnalités innovantes basées sur Nevio en travaillant avec des données réelles ou simulées.",
 
     conclusion:
-      "Rejoindre Alobees représente pour moi l’opportunité de contribuer au développement de services ayant un impact concret sur le terrain, progresser aux côtés d’une équipe passionnée et participer activement à la réussite d’une startup en pleine croissance. Je serais ravi d’échanger avec vous afin de détailler de vive voix ma motivation et la valeur que je peux apporter à votre équipe.",
+      "Intégrer Amadeus représente pour moi l’opportunité de contribuer à une solution utilisée par des millions de voyageurs, de progresser au sein d’une équipe d’excellence et de poursuivre mon parcours vers la certification RNCP niveau 7 en architecture logicielle. Je serais ravi d’échanger avec vous afin de détailler ma motivation et la valeur que je peux apporter à RefX Nevio.",
   },
   closing: {
     regards: "Respectueusement,",
