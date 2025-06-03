@@ -37,19 +37,19 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "3 juin 2025",
     recipientName: "Responsable Recrutement",
-    recipientCompany: "Amadeus",
-    recipientAddress: "Nice, France",
+    recipientCompany: "Everysens",
+    recipientAddress: "Lille, France",
   },
   salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "C’est avec un grand enthousiasme que je vous adresse ma candidature pour le poste d’Apprenti Développeur Frontend RefX Nevio (JavaScript/TypeScript/Angular) au sein d’Amadeus à Nice, en alternance de 12 ou 36 mois. Interessé par l’innovation digitale et motivé par la perspective de contribuer au futur de la distribution aérienne, je souhaite mettre mes compétences au service de votre équipe RefX Nevio.",
+      "C’est avec un enthousiasme certain que je vous adresse ma candidature pour le poste d’Alternant Développeur Front Angular au sein d’Everysens, pour une durée de 24 mois. Passionné par l’UI/UX et convaincu par votre projet de création d’un Design System « Lego », je souhaite mettre mon expertise TypeScript / Angular au service de votre équipe Engineering.",
 
     mainContent:
-      "Actuellement apprenant à ADA Tech School, j’ai consolidé une solide maîtrise de l’écosystème TypeScript et des frameworks modernes tels qu’Angular, React et NodeJS. Mes projets — de la plateforme de streaming *Streamia* à l’application de data-visualisation des enquêtes du FBI — m’ont permis de concevoir des interfaces performantes, d’intégrer des API REST et d’appliquer les bonnes pratiques Git Flow, CI/CD et Scrum. Curieux et rigoureux, je mène une veille active sur l’IA générative que j’utilise déjà pour accélérer la création d’UI et la génération de tests, démarche en phase avec votre volonté d’intégrer l’IA dans RefX pour livrer rapidement des démonstrations percutantes. Fort de l'expérience acquise lors de mes projets, je saurai maintenir la plateforme de démo, contourner les limitations techniques au besoin et développer des fonctionnalités innovantes basées sur Nevio en travaillant avec des données réelles ou simulées.",
+      "Actuellement apprenant à ADA Tech School, j’ai développé une bonne expérience avec l’écosystème Angular et des bonnes pratiques de qualité logicielle (tests unitaires, documentation, CI/CD GitLab). Mes projets – plateforme de streaming *Streamia*, data-visualisation des enquêtes du FBI, quiz *Void Trivia* – m’ont amené à concevoir des interfaces performantes, à intégrer des API REST et à collaborer en Scrum. Ayant une expérience avec Figma, je saurai coopérer efficacement avec Lara (Product Designer) et Mathieu (Tech Lead Front) pour bâtir un Design System cohérent : définition de tokens, création de composants modulaires et rédaction de la documentation. Mon goût pour la veille technologique, notamment autour de l’IA générative, me permet d’accélérer la génération de tests et de maquettes, un atout pour tenir les délais tout en maintenant un haut niveau d’exigence.",
 
     conclusion:
-      "Intégrer Amadeus représente pour moi l’opportunité de contribuer à une solution utilisée par des millions de voyageurs, de progresser au sein d’une équipe d’excellence et de poursuivre mon parcours vers la certification RNCP niveau 7 en architecture logicielle. Je serais ravi d’échanger avec vous afin de détailler ma motivation et la valeur que je peux apporter à RefX Nevio.",
+      "Rejoindre Everysens représente pour moi l’opportunité de contribuer à la digitalisation et à la décarbonation de la supply-chain ferroviaire européenne, tout en poursuivant mon objectif de certification RNCP niveau 7 en architecture logicielle. Je serais ravi d’échanger avec vous afin de détailler ma motivation et la valeur que je peux apporter à votre projet Design System.",
   },
   closing: {
     regards: "Respectueusement,",
