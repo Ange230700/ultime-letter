@@ -34,26 +34,26 @@ const coverLetterData: CoverLetterData = {
     senderName: "Ange KOUAKOU",
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
-    senderPhone: "+33 7 59 80 23 43",
-    date: "3 juin 2025",
-    recipientName: "Responsable Recrutement",
-    recipientCompany: "Groupe RAJA",
-    recipientAddress: "16 Rue de l'Étang, 93290 Tremblay-en-France, France",
+    senderPhone: "+33 7 59 80 23 43",
+    date: "4 juin 2025",
+    recipientName: "Équipe Recrutement",
+    recipientCompany: "Start‑up – Founding Engineer",
+    recipientAddress: "59000 Lille, France",
   },
   salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "Le but de ma candidature pour le poste d’Alternant·e Développeur·euse Web Front‑End au sein de la Digital Factory de RAJA est de comprendre davantage les enjeux et concepts du e-commerce. Aussi, le fait que la stack technologique tourne autour de JavaScript/TypeScript correspond parfaitement à l'écosystème dans lequel je veux continuer à m'améliorer. Cette alternance serait une opportunité de mettre en application ma maîtrise de TypeScript et des frameworks JavaScript modernes.",
+      "C’est avec enthousiasme que je vous propose ma candidature au poste de Founding Engineer. Votre ambition de bâtir une solution mêlant front‑end Angular, back‑end NestJS, IA en Python et une infrastructure cloud moderne résonne pleinement avec mon parcours et mes aspirations professionnelles. Rejoindre votre équipe fondatrice représente pour moi l’opportunité de mettre au service de votre vision mon goût prononcé pour l’innovation, la résolution de problèmes complexes et le delivery rapide de fonctionnalités à forte valeur ajoutée.",
 
     mainContent:
-      "Je suis actuellement étudiant à l'ADA Tech School, où j'ai développé des interfaces performantes et accessibles dans le cadre de projets tels que Streamia (une plateforme de streaming utilisant Next.js), DAF (visualisation des données des enquêtes du FBI dans React) et Void Trivia (une application de quiz multithèmes dans Angular). Ces expériences m'ont permis d'intégrer des pages d'accueil et des composants réutilisables à l'aide de HTML5, SASS et TailwindCSS, ainsi que d'utiliser et de documenter des API REST tout en appliquant des tests unitaires avec Jest. Je me concentre également sur les performances web et le référencement naturel (SEO) en utilisant le chargement différé et l'optimisation des images, et j'automatise les processus de déploiement à l'aide de Git, GitHub Actions et Docker. Ma fascination pour l'intelligence artificielle m'aide à créer rapidement des maquettes et à concevoir des scénarios de test.",
+      "Actuellement étudiant à l'ADA Tech School, j'ai développé plusieurs applications full-stack axées sur les performances et l'expérience utilisateur. L'un de mes projets les plus remarquables est VoidNull, une plateforme utilisant Angular et NestJS avec une API REST paginée. J'ai également créé Streamia, un service de streaming dans Next.js. De plus, j'ai travaillé sur DAF, un outil permettant de visualiser les données d'enquête du FBI à l'aide de React et Chart.js, démontrant ainsi ma capacité à transformer de grands ensembles de données en informations exploitables. Ces projets ont mis en évidence l'importance de la collaboration agile. J'ai également de l'expérience avec Postgres, Prisma et la modélisation de schémas relationnels.",
 
     conclusion:
-      "Intégrer RAJA serait l’occasion de contribuer à la réussite de vos temps forts commerciaux (Black Friday, Cyber Monday, Pâques…) tout en participant à la transition environnementale portée par le Groupe. Cette alternance constitue également une étape essentielle vers l’obtention de ma certification RNCP niveau 7 en architecture logicielle. Je serais ravi d’échanger avec vous pour détailler la valeur que je peux apporter à la Digital Factory.",
+      "Intégrer votre start‑up en tant que Founding Engineer serait l’occasion de co‑construire une architecture robuste tout en façonnant la culture technique et humaine de l’entreprise. Je suis prêt à assumer de larges responsabilités et à affronter la transversalité de votre sujet. Je serais ravi d’échanger avec vous afin de vous exposer plus en détail la valeur que je peux apporter à votre aventure.",
   },
   closing: {
     regards: "Respectueusement,",
-    signature: "Ange KOUAKOU",
+    signature: "Ange",
   },
 };
 
