@@ -40,7 +40,7 @@ const coverLetterData: CoverLetterData = {
     recipientCompany: "Jane",
     recipientAddress: "6-8 Boulevard Haussmann, 75009 Paris, France",
   },
-  salutation: "Madame, Monsieur,",
+  salutation: "Monsieur Bouldoires,",
   body: {
     introduction:
       "Actuellement apprenti développeur full-stack à ADA Tech School, je vous adresse ma candidature pour le poste de Développeur·se Front-End (React / TypeScript) en alternance au sein de Jane. Je vous soumets ma candidature car je pense que votre mission qui consiste à accompagner l’autoconsommation collective est très intéressante et pouvoir construire des solutions digitales représente un challenge que je souhaite relever.",
