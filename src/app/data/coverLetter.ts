@@ -36,20 +36,18 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "6 juin 2025",
-    recipientName: "Nathan Bouldoires",
-    recipientCompany: "Jane",
-    recipientAddress: "6-8 Boulevard Haussmann, 75009 Paris, France",
+    recipientName: "Service des Ressources Humaines",
+    recipientCompany: "Hellio",
+    recipientAddress: "92110 Clichy, France",
   },
-  salutation: "Monsieur Bouldoires,",
+  salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "Actuellement apprenti développeur full-stack à ADA Tech School, je vous adresse ma candidature pour le poste de Développeur·se Front-End (React / TypeScript) en alternance au sein de Jane. Je vous soumets ma candidature car je pense que votre mission qui consiste à accompagner l’autoconsommation collective est très intéressante et pouvoir construire des solutions digitales représente un challenge que je souhaite relever.",
-
+      "Actuellement apprenant à ADA Tech School, je vous adresse ma candidature pour le poste d’Alternant Développeur Full Stack au sein de Hellio. Intéressé par votre mission dans la transition énergétique et convaincu que le numérique joue un rôle clé pour optimiser la performance énergétique, je souhaite mettre à profit mes compétences techniques pour contribuer à vos solutions durables.",
     mainContent:
-      "Au cours de ma formation, j'ai conçu et développé plusieurs applications en TypeScript et React. L'un des projets les plus remarquables, DAF, consistait à créer une interface permettant de visualiser les données d'enquête du FBI à l'aide de React, PrimeReact et Chart.js avec des appels API REST. J'ai également créé Streamia, une plateforme de streaming sur Next.js, en utilisant TailwindCSS et Prisma pour l'authentification et la gestion des médias. Ce travail m'a permis de renforcer mes compétences en React.js, TypeScript et les meilleures pratiques en matière d'UX/UI. En outre, j'ai développé un projet personnel, VoidNull, à l'aide d'Angular et de NestJS, qui comprenait la pagination REST API et la modélisation de bases de données MySQL. Je maîtrise GitHub et l'optimisation des performances front-end, ce qui correspond aux besoins de Jane en matière d'intégration d'un simulateur d'énergie et de gestion des rôles.",
-
+      "J'ai acquis une expertise dans le développement front-end et back-end. J'ai conçu Streamia, une plateforme de streaming utilisant TypeScript, Next.js, TailwindCSS et Prisma pour l'authentification et la gestion des médias. J'ai également réalisé VoidNull, un projet personnel avec Angular et NestJS, comprenant une API REST paginée et une base de données MySQL. De plus, j'ai contribué à DAF, une interface React et TypeScript permettant de visualiser les données du FBI via une API REST, à l'aide de PrimeReact, TailwindCSS et Chart.js. Mon expérience m'a permis de travailler React, Next.js, Node.js, NestJS, Git et les méthodologies Agile. Je suis compétent en gestion MySQL et pratiques CI/CD avec Vercel et Render. J'ai également des connaissances de base en Docker pour la conteneurisation. Mes compétences analytiques me permettent d'améliorer la maintenabilité des solutions tout en garantissant leur robustesse. Je m'épanouis dans des équipes collaboratives et multidisciplinaires, où je m'adapte rapidement aux nouveaux outils selon les besoins.",
     conclusion:
-      "Rejoindre Jane, c’est pour moi l’opportunité de mettre à profit mes compétences front-end dans un contexte à fort impact environnemental. Motivé et proactif, je souhaite m’investir dans le développement de votre application et contribuer à la structuration de votre produit. Je serais ravi de pouvoir échanger avec vous sur ma candidature et d’expliquer plus en détail la valeur que je peux apporter à votre équipe.",
+      "Rejoindre Hellio représente pour moi l’opportunité d’allier engagement environnemental et savoir-faire numérique. Motivé, rigoureux et désireux d’apprendre, je souhaite m’investir pleinement dans le développement de vos projets web et contribuer à la structuration de vos outils pour accélérer la transition énergétique. Disponible rapidement pour un entretien, je serais ravi de vous exposer plus en détail la valeur que je peux apporter à votre équipe.",
   },
   closing: {
     regards: "Respectueusement,",
