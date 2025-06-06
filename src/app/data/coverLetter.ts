@@ -36,18 +36,18 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "6 juin 2025",
-    recipientName: "Monsieur Stéphane Le Rouzès",
-    recipientCompany: "Priveeo",
-    recipientAddress: "35770 Vern-sur-Seiche, France",
+    recipientName: "Responsable du recrutement",
+    recipientCompany: "Zaion",
+    recipientAddress: "35 Rue des Mathurins, 75008 Paris, France",
   },
-  salutation: "Monsieur Le Rouzès,",
+  salutation: "Madame, Monsieur,",
   body: {
     introduction:
-      "Actuellement apprenant à ADA Tech School en développement web et mobile, je vous adresse ma candidature pour le poste de Développeur Full Stack en alternance au sein de Priveeo. Séduit par votre concept de plateforme de ventes privées dédiées aux commerçants locaux, je suis convaincu que mes compétences me permettront de contribuer efficacement à la mise en œuvre de vos nouvelles fonctionnalités front-end et back-office.",
+      "Actuellement apprenant à ADA Tech School en développement web et mobile, je vous adresse ma candidature pour le poste de Backend Developer en alternance au sein de Zaion. Intéressé par l’envergure de vos projets de Callbot, je suis convaincu que mes compétences techniques et mon goût pour le travail en équipe sauront contribuer efficacement à l'atteinte de vos objectifs.",
     mainContent:
-      "Au cours de ma formation et de mes projets personnels, j’ai développé une solide expérience en TypeScript, Angular et NestJS. Par exemple, j’ai réalisé “VoidNull” (TypeScript, Angular, NestJS, MySQL), où j’ai conçu une API REST paginée ainsi qu’une interface utilisateur modulable, et j’ai appris à structurer la base de données pour garantir performance et maintenabilité. J’ai également développé “Streamia”, une plateforme de streaming sous Next.js et React, reposant sur Prisma et MySQL, ce qui m’a familiarisé avec la modélisation de données relationnelles et les bonnes pratiques CI/CD (Vercel, Render). Mon goût pour l’apprentissage m’a permis de prendre en main rapidement les mécanismes de Auth/JWT, et je suis à l’aise pour migrer mes compétences SQL de MySQL vers PostgreSQL, que vous utilisez pour vos bases de données. Enfin, ma pratique des méthodologies Agile (daily meetings, rétrospectives, GitFlow) et mes expériences en travail d’équipe m’ont appris à livrer des fonctionnalités robustes dans des délais serrés, tout en collaborant étroitement avec les autres développeurs.",
+      "Au cours de ma formation et de mes projets personnels, j’ai acquis une maîtrise de Node.js et de JavaScript/TypeScript, ainsi qu’une expérience concrète sur NestJS allant de la conception d’API REST à la structuration de bases de données performantes. Par exemple, pour mon projet « VoidNull », j’ai développé une API paginée en TypeScript/NestJS avec MySQL, et j’ai veillé à optimiser les performances côté back-end. J’ai également conçu « Streamia », une plateforme de streaming en Next.js et React, qui m’a permis de mettre en place une architecture front-end/back-end cohérente, d’intégrer Prisma pour la gestion de données et de déployer en continu via Vercel et Render. Ces expériences m’ont familiarisé avec les bonnes pratiques de tests unitaires et d’intégration, ainsi qu’avec les principes CI/CD – des atouts essentiels dans un environnement Agile/DevOps tel que le vôtre.",
     conclusion:
-      "Intégrer Priveeo.com représente pour moi l’opportunité de mettre en pratique mes acquis techniques dans un contexte concret d’innovation commerciale, tout en poursuivant ma progression vers la certification RNCP de niveau 6. Rigoureux et désireux d’apprendre, je me tiens prêt à m’investir pleinement dans le développement des fonctionnalités Angular/NestJS de votre plateforme. Je serais ravi d’échanger avec vous lors d’un entretien pour vous présenter plus en détail la valeur que je pourrais apporter à Priveeo.",
+      "Intégrer Zaion représente pour moi l’opportunité de mettre en pratique mes acquis techniques au service d’une entreprise dans l’IA conversationnelle, tout en poursuivant ma progression vers la certification RNCP de niveau 6. Motivé, rigoureux et désireux de relever les défis techniques que vous proposez, je serais honoré de pouvoir échanger avec vous lors d’un entretien afin de vous exposer plus en détail la valeur que je pourrais apporter à vos équipes.",
   },
   closing: {
     regards: "Respectueusement,",
