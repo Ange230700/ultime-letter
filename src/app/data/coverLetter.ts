@@ -37,23 +37,24 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "17 juin 2025",
-    recipientName: "Équipe Recrutement",
-    recipientCompany: "Sylvencia SARL",
-    recipientAddress: "Lyon / Chambéry / Ain (Full télétravail)",
+    recipientName: "Philippe Eid, CEO @Eid Lab",
+    recipientCompany: "Eid Lab",
+    recipientAddress: "Lyon, France (Full remote)",
   },
-  subject: "Candidature alternance – Développeur Front-End TypeScript/React",
-  salutation: "Madame, Monsieur,",
+  subject:
+    "Candidature alternance – Développeur Web Fullstack Next.js / TypeScript",
+  salutation: "Monsieur Eid,",
   body: {
     introduction: `
-Actuellement apprenant à ADA Tech School et préparant le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile, je souhaite rejoindre Sylvencia en tant qu’alternant front-end à partir de septembre 2025. Je suis passionné par la création de solutions numériques utiles et j’ai à cœur de participer à des projets qui ont du sens, comme la gestion intelligente des parcs urbains portée par Sylvencia.
+Actuellement apprenant à ADA Tech School et préparant le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile, je suis à la recherche d’une alternance de 12 à 36 mois, en full remote, à partir de septembre 2025. Votre annonce a tout de suite retenu mon attention : elle correspond parfaitement à mon projet professionnel et à mon envie de rejoindre une équipe jeune et passionnée, travaillant sur des projets innovants avec une stack moderne.
     `.trim(),
     mainContent: `
-Curieux, rigoureux et passionné de code depuis 2016, j’utilise au quotidien React, TypeScript et Next.js dans mes projets personnels et en équipe. J’ai notamment développé Streamia, une plateforme de streaming basée sur Next.js/React/TypeScript, intégrant une authentification par token, des appels d’APIs et une optimisation UX/UI. En équipe, j’ai travaillé sur DAF, un projet de data visualisation utilisant React, PrimeReact et Chart.js pour manipuler et afficher dynamiquement des données issues d’APIs publiques. J’ai également co-développé un quiz multi-thèmes sous Angular/TypeScript, avec une gestion d’état soignée et des pratiques agiles telles que Git Flow.
-À l’aise en télétravail et en équipe, j’ai l’habitude des méthodes agiles, de la CI/CD (Vercel, Render) et de la veille tech, avec une capacité à monter rapidement en compétence sur de nouveaux outils comme Firebase ou Figma.
+J’utilise au quotidien React, Next.js et TypeScript, que j’ai mis en pratique sur des projets comme Streamia (plateforme de streaming avec gestion d’API et authentification) et DAF (visualisation de données issues de l’API du FBI). J’ai aussi co-développé des applications en Angular et Node.js, ce qui m’a permis d’être à l’aise sur le front et le back. Habitué au travail d’équipe en mode agile et en full remote, je suis curieux, rigoureux et toujours prêt à apprendre. Rejoindre Eid Lab serait pour moi l’occasion de progresser et de contribuer à des projets ambitieux.
     `.trim(),
     conclusion: `
-Votre fiche de poste correspond à mes aspirations : enrichir une application React/TypeScript et proposer des optimisations UX/UI. Mon profil allie autonomie et force de proposition. Je suis prêt à contribuer à la croissance de Sylvencia en apportant mon énergie et ma rigueur au service d’une plateforme web innovante et durable.
-Je vous invite à découvrir mes réalisations sur mon portfolio et mon GitHub. Je serais ravi d’échanger avec vous pour détailler ma motivation et ma vision du métier de développeur front-end.
+Votre culture d’équipe et votre ouverture à la montée en compétence me correspondent totalement. J’aimerais mettre mon énergie, ma motivation et mes compétences au service de vos projets, tout en poursuivant mon objectif de devenir un concepteur-développeur d’applications polyvalent, et, à terme, architecte logiciel.
+
+Je vous invite à découvrir mes réalisations sur mon portfolio et mon github. Je serais ravi d’échanger avec vous pour discuter de ma motivation et de la manière dont je pourrais contribuer à l’aventure Eid Lab !
     `.trim(),
   },
   closing: {
