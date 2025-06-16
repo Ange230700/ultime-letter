@@ -5,7 +5,7 @@ import type { CoverLetterData } from "@/app/data/coverLetter";
 export default function CoverLetter({
   data,
 }: Readonly<{ data: CoverLetterData }>) {
-  const { header, salutation, body, closing } = data;
+  const { header, subject, salutation, body, closing } = data;
   return (
     <article className="flex flex-1 flex-col justify-evenly overflow-hidden px-[100px]">
       {/* Header */}
@@ -24,6 +24,11 @@ export default function CoverLetter({
           <p>{header.recipientAddress}</p>
         </div>
       </header>
+
+      {/* Subject */}
+      <section className="mb-4">
+        <p className="font-semibold">Objet&nbsp;: {subject}</p>
+      </section>
 
       {/* Salutation */}
       <section className="mb-6">

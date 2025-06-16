@@ -24,6 +24,7 @@ export interface CoverLetterClosing {
 
 export interface CoverLetterData {
   header: CoverLetterHeader;
+  subject: string;
   salutation: string;
   body: CoverLetterBody;
   closing: CoverLetterClosing;
@@ -40,6 +41,7 @@ const coverLetterData: CoverLetterData = {
     recipientCompany: "Infinite Studio",
     recipientAddress: "Toulouse, France",
   },
+  subject: "Candidature au stage développeur web – Infinite Studio",
   salutation: "Monsieur Joffre,",
   body: {
     introduction:
