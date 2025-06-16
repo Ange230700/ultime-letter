@@ -36,24 +36,24 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "16 juin 2025",
+    date: "17 juin 2025",
     recipientName: "Équipe Recrutement",
-    recipientCompany: "CLIKING",
-    recipientAddress: "Montreuil, Île-de-France, France",
+    recipientCompany: "Sylvencia SARL",
+    recipientAddress: "Lyon / Chambéry / Ain (Full télétravail)",
   },
-  subject:
-    "Candidature alternance – Apprenti Développeur Full Stack NodeJS / Angular H/F",
+  subject: "Candidature alternance – Développeur Front-End TypeScript/React",
   salutation: "Madame, Monsieur,",
   body: {
     introduction: `
-Actuellement apprenant développeur full stack à ADA Tech School, je suis à la recherche d’une alternance de 12 à 36 mois à partir de septembre 2025, dans le cadre de la préparation au titre RNCP de Concepteur-Développeur d’Applications Web & Mobile. C’est avec un vif intérêt que je candidate chez CLIKING pour contribuer au développement de vos solutions innovantes en tant qu’apprenti développeur NodeJS/Angular.
+Actuellement apprenant à ADA Tech School et préparant le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile, je souhaite rejoindre Sylvencia en tant qu’alternant front-end à partir de septembre 2025. Je suis passionné par la création de solutions numériques utiles et j’ai à cœur de participer à des projets qui ont du sens, comme la gestion intelligente des parcs urbains portée par Sylvencia.
     `.trim(),
     mainContent: `
-Mon parcours m’a permis de développer une expertise en front-end (Angular, TypeScript, React) et en back-end (Node.js, Express, NestJS, API REST, MySQL/PostgreSQL), avec un goût prononcé pour l’agilité et la qualité logicielle. J’ai co-développé une application de data visualisation avec React et TypeScript, réalisé une plateforme de streaming sécurisée (Next.js), et participé au développement d’outils métiers et de quiz avec Angular et NestJS, en intégrant CI/CD et documentation technique.
-Je maîtrise ainsi les fondamentaux attendus chez CLIKING : développement de nouvelles fonctionnalités, intégration d’APIs tierces, sécurité, tests et documentation. Sensibilisé à l’amélioration continue, je saurai apporter rigueur, curiosité et force de proposition au sein de votre équipe agile.
+Curieux, rigoureux et passionné de code depuis 2016, j’utilise au quotidien React, TypeScript et Next.js dans mes projets personnels et en équipe. J’ai notamment développé Streamia, une plateforme de streaming basée sur Next.js/React/TypeScript, intégrant une authentification par token, des appels d’APIs et une optimisation UX/UI. En équipe, j’ai travaillé sur DAF, un projet de data visualisation utilisant React, PrimeReact et Chart.js pour manipuler et afficher dynamiquement des données issues d’APIs publiques. J’ai également co-développé un quiz multi-thèmes sous Angular/TypeScript, avec une gestion d’état soignée et des pratiques agiles telles que Git Flow.
+À l’aise en télétravail et en équipe, j’ai l’habitude des méthodes agiles, de la CI/CD (Vercel, Render) et de la veille tech, avec une capacité à monter rapidement en compétence sur de nouveaux outils comme Firebase ou Figma.
     `.trim(),
     conclusion: `
-Rejoindre CLIKING, c’est l’opportunité de m’investir au cœur d’une équipe jeune et dynamique, sur un produit SaaS à fort potentiel et avec des responsabilités concrètes. Je serais ravi d’échanger de vive voix pour discuter de ma motivation et de la valeur que je peux apporter à votre équipe. Je vous remercie par avance pour votre attention et reste à votre disposition pour toute information complémentaire.
+Votre fiche de poste correspond à mes aspirations : enrichir une application React/TypeScript et proposer des optimisations UX/UI. Mon profil allie autonomie et force de proposition. Je suis prêt à contribuer à la croissance de Sylvencia en apportant mon énergie et ma rigueur au service d’une plateforme web innovante et durable.
+Je vous invite à découvrir mes réalisations sur mon portfolio et mon GitHub. Je serais ravi d’échanger avec vous pour détailler ma motivation et ma vision du métier de développeur front-end.
     `.trim(),
   },
   closing: {
