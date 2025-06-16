@@ -35,22 +35,22 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "6 juin 2025",
-    recipientName: "Responsable du recrutement",
-    recipientCompany: "Zaion",
-    recipientAddress: "35 Rue des Mathurins, 75008 Paris, France",
+    date: "16 juin 2025",
+    recipientName: "Sébastien Joffre",
+    recipientCompany: "Infinite Studio",
+    recipientAddress: "Toulouse, France",
   },
-  salutation: "Madame, Monsieur,",
+  salutation: "Monsieur Joffre,",
   body: {
     introduction:
-      "Actuellement apprenant à ADA Tech School en développement web et mobile, je vous adresse ma candidature pour le poste de Backend Developer en alternance au sein de Zaion. Intéressé par l’envergure de vos projets de Callbot, je suis convaincu que mes compétences techniques et mon goût pour le travail en équipe sauront contribuer efficacement à l'atteinte de vos objectifs.",
+      "Actuellement apprenant développeur full-stack à ADA Tech School, je vous adresse ma candidature pour le stage de développeur web au sein d’Infinite Studio. Passionné par le développement web et motivé par l’idée de rejoindre une équipe à taille humaine pour contribuer à des projets innovants, je souhaite approfondir mes compétences sur Angular, NestJS et les technologies modernes de votre stack.",
     mainContent:
-      "Au cours de ma formation et de mes projets personnels, j’ai acquis une maîtrise de Node.js et de JavaScript/TypeScript, ainsi qu’une expérience concrète sur NestJS allant de la conception d’API REST à la structuration de bases de données performantes. Par exemple, pour mon projet « VoidNull », j’ai développé une API paginée en TypeScript/NestJS avec MySQL, et j’ai veillé à optimiser les performances côté back-end. J’ai également conçu « Streamia », une plateforme de streaming en Next.js et React, qui m’a permis de mettre en place une architecture front-end/back-end cohérente, d’intégrer Prisma pour la gestion de données et de déployer en continu via Vercel et Render. Ces expériences m’ont familiarisé avec les bonnes pratiques de tests unitaires et d’intégration, ainsi qu’avec les principes CI/CD – des atouts essentiels dans un environnement Agile/DevOps tel que le vôtre.",
+      "Au fil de mes expériences en formation et en projets personnels, j’ai développé des applications avec Angular, NestJS et MySQL, et j’ai acquis une maîtrise concrète de TypeScript, de la conception à la mise en production. J’ai notamment conçu 'VoidNull', un gestionnaire d’items en Angular et NestJS avec pagination, API REST et gestion de base de données. En équipe, j’ai aussi travaillé sur 'Void Trivia', un quiz multi-thèmes en Angular, PrimeNG et Tailwind, avec la mise en place de rituels agiles (daily meetings, rétrospectives). Ma rigueur, mon autonomie et ma curiosité m’incitent à aller plus loin, à apprendre et à partager, tout en gardant à cœur la qualité du code et la collaboration.",
     conclusion:
-      "Intégrer Zaion représente pour moi l’opportunité de mettre en pratique mes acquis techniques au service d’une entreprise dans l’IA conversationnelle, tout en poursuivant ma progression vers la certification RNCP de niveau 6. Motivé, rigoureux et désireux de relever les défis techniques que vous proposez, je serais honoré de pouvoir échanger avec vous lors d’un entretien afin de vous exposer plus en détail la valeur que je pourrais apporter à vos équipes.",
+      "Intégrer Infinite Studio représente pour moi l’opportunité de progresser auprès de développeurs expérimentés, de contribuer à des projets sur-mesure et de renforcer mes compétences dans un environnement stimulant. Enthousiaste à l’idée de rejoindre votre équipe, je serais ravi d’échanger lors d’un entretien pour discuter plus en détail de ma motivation et de la valeur que je pourrais apporter à vos projets.",
   },
   closing: {
-    regards: "Respectueusement,",
+    regards: "Cordialement,",
     signature: "Ange KOUAKOU",
   },
 };
