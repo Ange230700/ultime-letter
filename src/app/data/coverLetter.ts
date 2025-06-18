@@ -36,25 +36,24 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "17 juin 2025",
-    recipientName: "Philippe Eid, CEO @Eid Lab",
-    recipientCompany: "Eid Lab",
-    recipientAddress: "Lyon, France (Full remote)",
+    date: "18 juin 2025",
+    recipientName: "Équipe recrutement",
+    recipientCompany: "Beeldi",
+    recipientAddress: "48 Rue René Clair, 75018 Paris, France",
   },
   subject:
-    "Candidature alternance – Développeur Web Fullstack Next.js / TypeScript",
-  salutation: "Monsieur Eid,",
+    "Candidature alternance – Développeur(se) FullStack Typescript React/Node (F/H/X) - ALTERNANCE",
+  salutation: "Madame, Monsieur,",
   body: {
     introduction: `
-Actuellement apprenant à ADA Tech School et préparant le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile, je suis à la recherche d’une alternance de 12 à 36 mois, en full remote, à partir de septembre 2025. Votre annonce a tout de suite retenu mon attention : elle correspond parfaitement à mon projet professionnel et à mon envie de rejoindre une équipe jeune et passionnée, travaillant sur des projets innovants avec une stack moderne.
+Actuellement apprenant à ADA Tech School où je prépare le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile, je suis à la recherche d’une alternance de 12 à 36 mois à compter de septembre 2025. Votre annonce pour le poste de Développeur Fullstack React/Node.js chez Beeldi a immédiatement retenu mon attention par son approche technique moderne et son environnement dynamique, parfaitement alignés avec mon projet professionnel.
     `.trim(),
     mainContent: `
-J’utilise au quotidien React, Next.js et TypeScript, que j’ai mis en pratique sur des projets comme Streamia (plateforme de streaming avec gestion d’API et authentification) et DAF (visualisation de données issues de l’API du FBI). J’ai aussi co-développé des applications en Angular et Node.js, ce qui m’a permis d’être à l’aise sur le front et le back. Habitué au travail d’équipe en mode agile et en full remote, je suis curieux, rigoureux et toujours prêt à apprendre. Rejoindre Eid Lab serait pour moi l’occasion de progresser et de contribuer à des projets ambitieux.
+J’utilise quotidiennement TypeScript, React et Node.js, technologies que j’ai mobilisées sur des projets significatifs comme Streamia, une plateforme de streaming développée avec Next.js, et DAF, une application de visualisation de données via l’API du FBI. Ces expériences m'ont permis d'acquérir une aisance tant sur le frontend que sur le backend, ainsi qu’une maîtrise approfondie des principes Agile, notamment grâce à un travail régulier en équipe.
+Rigoureux, autonome et intéressé par les bonnes pratiques du software craftsmanship (SOLID, clean architecture), je suis convaincu que mon profil correspond idéalement à vos attentes. Rejoindre Beeldi serait pour moi l’occasion de contribuer activement à vos développements innovants tout en poursuivant ma progression vers un rôle de concepteur-développeur polyvalent, avec pour ambition de devenir à terme architecte logiciel.
     `.trim(),
     conclusion: `
-Votre culture d’équipe et votre ouverture à la montée en compétence me correspondent totalement. J’aimerais mettre mon énergie, ma motivation et mes compétences au service de vos projets, tout en poursuivant mon objectif de devenir un concepteur-développeur d’applications polyvalent, et, à terme, architecte logiciel.
-
-Je vous invite à découvrir mes réalisations sur mon portfolio et mon github. Je serais ravi d’échanger avec vous pour discuter de ma motivation et de la manière dont je pourrais contribuer à l’aventure Eid Lab !
+Je vous invite à découvrir mes réalisations sur mon portfolio et mon GitHub. Je reste à votre entière disposition pour un échange qui me permettrait de détailler davantage ma motivation et la manière dont je pourrais apporter une réelle valeur ajoutée à votre équipe.
     `.trim(),
   },
   closing: {
