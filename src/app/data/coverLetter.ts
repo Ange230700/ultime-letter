@@ -37,25 +37,22 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "20 juin 2025",
-    recipientName: "Stéphane Le Rouzès",
-    recipientCompany: "Priveeo",
-    recipientAddress: "35770 Vern-sur-Seiche, France",
+    recipientName: "Angélique Rosbif",
+    recipientCompany: "Responsable recrutement chez Hellio",
+    recipientAddress: "92110 Clichy, France",
   },
-  subject:
-    "Relance – Candidature au poste de Développeur Full stack en alternance F/H",
-  salutation: "Monsieur Le Rouzès,",
+  subject: "Relance – Candidature Alternance Développeur Full Stack H/F",
+  salutation: "Madame Rosbif,",
   body: {
     introduction: `
-Je me permets de vous recontacter concernant ma candidature au poste de Développeur Full Stack en alternance au sein de Priveeo, pour lequel je vous ai transmis mon dossier le 6 juin dernier.
-Sincèrement motivé par votre concept de plateforme innovante, je reste convaincu que mon parcours et mes compétences en Angular, NestJS, TypeScript et bases de données relationnelles seraient des atouts pour contribuer activement au développement de vos nouvelles fonctionnalités, aussi bien sur la partie Front que Back Office.
+Je me permets de vous relancer concernant ma candidature au poste d’Alternant Développeur Full Stack, transmise le 6 juin dernier. Très motivé par l’idée de rejoindre Hellio et de contribuer à la transition énergétique à travers des solutions numériques innovantes, je reste particulièrement attentif à votre retour.
     `.trim(),
     mainContent: `
-Au cours de mes formations à ADA Tech School et à la Wild Code School, ainsi que lors de mes projets personnels tels que “VoidNull” (Angular, NestJS, MySQL) et “Streamia” (Next.js, Prisma, MySQL), j’ai pu acquérir une solide expérience en développement full stack, en gestion de bases de données et en déploiement d’applications. Ces expériences m’ont permis d’être rapidement opérationnel sur des environnements techniques proches des vôtres et de m’intégrer efficacement à une équipe Agile, tout en respectant les objectifs fixés.
-Toujours désireux de progresser, je souhaite vivement rejoindre Priveeo pour mettre mes compétences au service de votre croissance et continuer à me former dans le cadre d’une alternance, tout en préparant la certification RNCP de niveau 6.
+Ma formation à ADA Tech School, mes projets menés en Next.js, React, Node.js, Angular et NestJS, ainsi que ma maîtrise de Git, des bases de MySQL et des notions de Docker, font écho aux compétences recherchées dans votre annonce. J’ai l’habitude de travailler dans des environnements collaboratifs et agiles, en m’adaptant rapidement aux nouveaux outils et en valorisant la performance des applications développées.
     `.trim(),
     conclusion: `
-Je reste à votre disposition pour un entretien à votre convenance afin d’échanger sur mes motivations et la valeur que je pourrais apporter à votre équipe.
-Dans l’attente de votre retour, je vous remercie de l’attention portée à ma candidature.
+Rejoindre vos équipes serait l’opportunité de mettre mes compétences techniques et mon engagement au service d’une mission porteuse de sens. Je suis disponible pour un entretien à votre convenance afin de vous exposer plus concrètement ma motivation et la valeur que je peux apporter à Hellio.
+Dans l’attente de votre retour, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
     `.trim(),
   },
   closing: {
