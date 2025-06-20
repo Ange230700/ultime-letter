@@ -37,22 +37,23 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "20 juin 2025",
-    recipientName: "Angélique Rosbif",
-    recipientCompany: "Responsable recrutement chez Hellio",
-    recipientAddress: "92110 Clichy, France",
+    recipientName: "Nathan Bouldoires",
+    recipientCompany: "Co-fondateur de Jane",
+    recipientAddress: "6-8, Boulevard Haussmann, Paris, Île-de-France FR",
   },
-  subject: "Relance – Candidature Alternance Développeur Full Stack H/F",
-  salutation: "Madame Rosbif,",
+  subject:
+    "Relance – Stage / Alternance Développeur·se Front-End (React / TypeScript) chez Jane",
+  salutation: "Monsieur Bouldoires,",
   body: {
     introduction: `
-Je me permets de vous relancer concernant ma candidature au poste d’Alternant Développeur Full Stack, transmise le 6 juin dernier. Très motivé par l’idée de rejoindre Hellio et de contribuer à la transition énergétique à travers des solutions numériques innovantes, je reste particulièrement attentif à votre retour.
+Je me permets de revenir vers vous concernant ma candidature au poste de Développeur·se Front-End (React / TypeScript) chez Jane, envoyée le 6 juin dernier. Je reste très enthousiaste à l’idée de rejoindre votre équipe et de contribuer au développement d’outils innovants pour l’autoconsommation collective.
     `.trim(),
     mainContent: `
-Ma formation à ADA Tech School, mes projets menés en Next.js, React, Node.js, Angular et NestJS, ainsi que ma maîtrise de Git, des bases de MySQL et des notions de Docker, font écho aux compétences recherchées dans votre annonce. J’ai l’habitude de travailler dans des environnements collaboratifs et agiles, en m’adaptant rapidement aux nouveaux outils et en valorisant la performance des applications développées.
+Mon parcours à ADA Tech School ainsi que mes projets personnels (notamment la plateforme Streamia développée en Next.js, ou l’outil de data visualisation DAF réalisé avec React et Chart.js) m’ont permis de maîtriser React, TypeScript, l’intégration de maquettes Figma et la consommation d’API REST, compétences essentielles pour répondre aux missions de Jane. Je me reconnais totalement dans l’esprit entrepreneurial et proactif que vous recherchez.
     `.trim(),
     conclusion: `
-Rejoindre vos équipes serait l’opportunité de mettre mes compétences techniques et mon engagement au service d’une mission porteuse de sens. Je suis disponible pour un entretien à votre convenance afin de vous exposer plus concrètement ma motivation et la valeur que je peux apporter à Hellio.
-Dans l’attente de votre retour, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Je suis convaincu que mon engagement, mon sens de l’initiative et ma capacité à travailler en équipe peuvent être de réels atouts pour accompagner la croissance de Jane et relever les défis techniques liés à vos projets. Je serais ravi de pouvoir échanger avec vous sur ma candidature et sur la manière dont je pourrais contribuer à vos ambitions.
+Dans l’attente de votre retour, je reste à votre disposition pour tout complément d’information ou entretien.
     `.trim(),
   },
   closing: {
