@@ -36,24 +36,26 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "18 juin 2025",
-    recipientName: "Équipe recrutement",
-    recipientCompany: "Beeldi",
-    recipientAddress: "48 Rue René Clair, 75018 Paris, France",
+    date: "20 juin 2025",
+    recipientName: "Stéphane Le Rouzès",
+    recipientCompany: "Priveeo",
+    recipientAddress: "35770 Vern-sur-Seiche, France",
   },
   subject:
-    "Candidature alternance – Développeur(se) FullStack Typescript React/Node (F/H/X) - ALTERNANCE",
-  salutation: "Madame, Monsieur,",
+    "Relance – Candidature au poste de Développeur Full stack en alternance F/H",
+  salutation: "Monsieur Le Rouzès,",
   body: {
     introduction: `
-Actuellement apprenant à ADA Tech School où je prépare le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile, je suis à la recherche d’une alternance de 12 à 36 mois à compter de septembre 2025. Votre annonce pour le poste de Développeur Fullstack React/Node.js chez Beeldi a immédiatement retenu mon attention par son approche technique moderne et son environnement dynamique, parfaitement alignés avec mon projet professionnel.
+Je me permets de vous recontacter concernant ma candidature au poste de Développeur Full Stack en alternance au sein de Priveeo, pour lequel je vous ai transmis mon dossier le 6 juin dernier.
+Sincèrement motivé par votre concept de plateforme innovante, je reste convaincu que mon parcours et mes compétences en Angular, NestJS, TypeScript et bases de données relationnelles seraient des atouts pour contribuer activement au développement de vos nouvelles fonctionnalités, aussi bien sur la partie Front que Back Office.
     `.trim(),
     mainContent: `
-J’utilise quotidiennement TypeScript, React et Node.js, technologies que j’ai mobilisées sur des projets significatifs comme Streamia, une plateforme de streaming développée avec Next.js, et DAF, une application de visualisation de données via l’API du FBI. Ces expériences m'ont permis d'acquérir une aisance tant sur le frontend que sur le backend, ainsi qu’une maîtrise approfondie des principes Agile, notamment grâce à un travail régulier en équipe.
-Rigoureux, autonome et intéressé par les bonnes pratiques du software craftsmanship (SOLID, clean architecture), je suis convaincu que mon profil correspond idéalement à vos attentes. Rejoindre Beeldi serait pour moi l’occasion de contribuer activement à vos développements innovants tout en poursuivant ma progression vers un rôle de concepteur-développeur polyvalent, avec pour ambition de devenir à terme architecte logiciel.
+Au cours de mes formations à ADA Tech School et à la Wild Code School, ainsi que lors de mes projets personnels tels que “VoidNull” (Angular, NestJS, MySQL) et “Streamia” (Next.js, Prisma, MySQL), j’ai pu acquérir une solide expérience en développement full stack, en gestion de bases de données et en déploiement d’applications. Ces expériences m’ont permis d’être rapidement opérationnel sur des environnements techniques proches des vôtres et de m’intégrer efficacement à une équipe Agile, tout en respectant les objectifs fixés.
+Toujours désireux de progresser, je souhaite vivement rejoindre Priveeo pour mettre mes compétences au service de votre croissance et continuer à me former dans le cadre d’une alternance, tout en préparant la certification RNCP de niveau 6.
     `.trim(),
     conclusion: `
-Je vous invite à découvrir mes réalisations sur mon portfolio et mon GitHub. Je reste à votre entière disposition pour un échange qui me permettrait de détailler davantage ma motivation et la manière dont je pourrais apporter une réelle valeur ajoutée à votre équipe.
+Je reste à votre disposition pour un entretien à votre convenance afin d’échanger sur mes motivations et la valeur que je pourrais apporter à votre équipe.
+Dans l’attente de votre retour, je vous remercie de l’attention portée à ma candidature.
     `.trim(),
   },
   closing: {
