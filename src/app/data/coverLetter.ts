@@ -36,24 +36,27 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "20 juin 2025",
-    recipientName: "Nathan Bouldoires",
-    recipientCompany: "Co-fondateur de Jane",
-    recipientAddress: "6-8, Boulevard Haussmann, Paris, Île-de-France FR",
+    date: "23 juin 2025",
+    recipientName: "Birgit Bachimont",
+    recipientCompany: "MACK One France",
+    recipientAddress: "Plobsheim (67), France",
   },
   subject:
-    "Relance – Stage / Alternance Développeur·se Front-End (React / TypeScript) chez Jane",
-  salutation: "Monsieur Bouldoires,",
+    "Candidature – Alternance Developer (h|f) front-end junior chez MACK One France",
+  salutation: "Madame Bachimont,",
   body: {
     introduction: `
-Je me permets de revenir vers vous concernant ma candidature au poste de Développeur·se Front-End (React / TypeScript) chez Jane, envoyée le 6 juin dernier. Je reste très enthousiaste à l’idée de rejoindre votre équipe et de contribuer au développement d’outils innovants pour l’autoconsommation collective.
+Actuellement en formation à ADA Tech School, je souhaite vivement intégrer MACK One France en alternance en tant que développeur front-end junior dès septembre 2025. Votre engagement envers des expériences numériques immersives résonne particulièrement avec mon intérêt pour la création d’interfaces innovantes et interactives.
     `.trim(),
     mainContent: `
-Mon parcours à ADA Tech School ainsi que mes projets personnels (notamment la plateforme Streamia développée en Next.js, ou l’outil de data visualisation DAF réalisé avec React et Chart.js) m’ont permis de maîtriser React, TypeScript, l’intégration de maquettes Figma et la consommation d’API REST, compétences essentielles pour répondre aux missions de Jane. Je me reconnais totalement dans l’esprit entrepreneurial et proactif que vous recherchez.
+Mon parcours m'a permis de maîtriser les langages HTML, CSS, JavaScript ainsi que des frameworks modernes tels que React, Vue et Next.js, et j'ai également acquis de solides bases en TypeScript. Lors de projets réalisés en équipe, notamment la création d'une plateforme de data visualisation utilisant React, TailwindCSS et Chart.js, j'ai développé une aisance dans l'intégration de maquettes Figma, la consommation d'APIs REST et le travail collaboratif sous méthodologie Agile.
+
+Rigoureux et curieux, je m'attache à structurer mon code avec clarté et efficacité. Votre mention de TailwindCSS, de frameworks modernes et votre intérêt pour l'UI design correspondent parfaitement à mes compétences et à mes ambitions professionnelles.
     `.trim(),
     conclusion: `
-Je suis convaincu que mon engagement, mon sens de l’initiative et ma capacité à travailler en équipe peuvent être de réels atouts pour accompagner la croissance de Jane et relever les défis techniques liés à vos projets. Je serais ravi de pouvoir échanger avec vous sur ma candidature et sur la manière dont je pourrais contribuer à vos ambitions.
-Dans l’attente de votre retour, je reste à votre disposition pour tout complément d’information ou entretien.
+Rejoindre votre équipe serait une excellente opportunité pour contribuer activement à vos projets innovants tout en continuant à développer mes compétences techniques et créatives. Je serais ravi d'échanger avec vous afin de détailler davantage mon parcours et ma motivation.
+
+Je reste à votre disposition pour toute information complémentaire ou entretien à votre convenance.
     `.trim(),
   },
   closing: {
