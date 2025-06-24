@@ -36,29 +36,26 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "23 juin 2025",
+    date: "24 juin 2025",
     recipientName: "Service des Ressources Humaines",
-    recipientCompany: "LegalPlace",
-    recipientAddress: "Paris, France",
+    recipientCompany: "Rakoono",
+    recipientAddress: "75013 Paris, France",
   },
-  subject:
-    "Candidature – Junior Développeur Fullstack (alternance) chez LegalPlace",
+  subject: "Candidature – Alternant.e Dev Web Fullstack",
   salutation: "Madame, Monsieur,",
   body: {
     introduction: `
-Actuellement apprenant à ADA Tech School, je souhaite vivement rejoindre LegalPlace en tant que Junior Développeur Fullstack afin de contribuer à rendre le droit plus accessible grâce à la technologie. Votre mission résonne particulièrement avec mon parcours et mon engagement à résoudre des problématiques complexes en équipe, tout en développant des produits utiles et innovants.
+Actuellement apprenant à ADA Tech School, je suis vivement intéressé par l’opportunité d’intégrer Rakoono en tant qu'alternant Développeur Web Fullstack dès l'été 2025. Votre mission d'offrir une expérience d'apprentissage personnalisée grâce à la GenAI correspond parfaitement à mes aspirations professionnelles et à ma passion pour résoudre des problématiques réelles et innovantes.
     `.trim(),
     mainContent: `
-Formé à la fois en développement frontend et backend, j’ai acquis une solide maîtrise de TypeScript, React, Node.js, et ai pu mettre en œuvre ces compétences lors de projets concrets, notamment sur une plateforme de streaming (Next.js, React, Prisma, MySQL) et une application de data visualisation utilisant React, TypeScript et Chart.js. Ces expériences m'ont permis de travailler en méthode Agile, de collaborer efficacement au sein d’équipes pluridisciplinaires, et de déployer des solutions robustes dans des délais courts.
+Au cours de mes formations à ADA Tech School et Wild Code School, j'ai acquis une solide expertise technique en React, Next.js, TypeScript, Node.js et PostgreSQL. J’ai notamment développé Streamia, une plateforme de streaming conçue en Next.js avec gestion complète de l'authentification et des médias, ainsi qu'une application de visualisation de données exploitant React, TypeScript et Chart.js. Ces expériences m'ont permis de maîtriser les méthodologies Agile, le Git Flow, et les pratiques de CI/CD avec Vercel et Render, tout en renforçant mon goût prononcé pour le travail en équipe.
 
-J’ai également eu l’opportunité de travailler avec NestJS et l'ORM Prisma pour développer des APIs REST évolutives, ainsi que d’intégrer des pratiques DevOps (CI/CD avec Vercel et Render), ce qui me permet d’appréhender l’ensemble du cycle de vie d’une application web moderne.
-
-Curieux et force de proposition, j’aime challenger les choix techniques pour garantir la qualité des livrables, tout en restant attentif au partage de connaissances et à la progression collective de l’équipe. Mon goût pour l’innovation et la transmission me pousse aussi à accompagner et mentorer mes pairs lorsque l’occasion se présente.
+Ma curiosité et mon autonomie me poussent à constamment explorer les dernières technologies, notamment en matière de GenAI. J'apprécie particulièrement l'intégration de modèles d’intelligence artificielle dans les applications pour enrichir l’expérience utilisateur, un domaine que je souhaite approfondir au sein de votre équipe dynamique.
     `.trim(),
     conclusion: `
-Intégrer LegalPlace serait l’opportunité d’évoluer dans un environnement stimulant, d’apporter ma rigueur et ma créativité au service d’une mission à impact, et de continuer à grandir professionnellement. Je me tiens à votre disposition pour tout échange, entretien ou test technique afin de détailler mon parcours et ma motivation.
+Rejoindre Rakoono serait pour moi une opportunité exceptionnelle de contribuer activement à un projet à fort impact éducatif tout en poursuivant mon parcours vers la certification RNCP de niveau 6 de Concepteur-Développeur d’Applications Web & Mobile. Je suis à votre disposition pour toute discussion ou entretien afin d’approfondir ma motivation et mes compétences.
 
-Je vous remercie pour votre attention et l’opportunité offerte.
+Je vous remercie sincèrement pour l’attention que vous porterez à ma candidature.
     `.trim(),
   },
   closing: {
