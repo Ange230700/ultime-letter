@@ -42,7 +42,7 @@ const coverLetterData: CoverLetterData = {
     recipientAddress: "Télétravail / Paris",
   },
   subject: "Candidature – Alternant Développeur Front-end React/TypeScript",
-  salutation: "Bonjour Malik,",
+  salutation: "Bonjour M. Amghar,",
   body: {
     introduction: `
 Actuellement apprenant développeur full-stack à ADA Tech School, je souhaite rejoindre TheGiftsClub en tant qu’alternant Développeur Front-end. Votre mission d’engager les clients via des jeux personnalisés m’inspire particulièrement et je suis motivé à contribuer à vos projets dès la rentrée 2025.
