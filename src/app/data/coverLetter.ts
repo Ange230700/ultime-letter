@@ -36,30 +36,30 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "24 juin 2025",
-    recipientName: "Service des Ressources Humaines",
-    recipientCompany: "Rakoono",
-    recipientAddress: "75013 Paris, France",
+    date: "16 juillet 2025",
+    recipientName: "Malik Amghar",
+    recipientCompany: "TheGiftsClub",
+    recipientAddress: "Télétravail / Paris",
   },
-  subject: "Candidature – Alternant.e Dev Web Fullstack",
-  salutation: "Madame, Monsieur,",
+  subject: "Candidature – Alternant Développeur Front-end React/TypeScript",
+  salutation: "Bonjour Malik,",
   body: {
     introduction: `
-Actuellement apprenant à ADA Tech School, je suis vivement intéressé par l’opportunité d’intégrer Rakoono en tant qu'alternant Développeur Web Fullstack dès l'été 2025. Votre mission d'offrir une expérience d'apprentissage personnalisée grâce à la GenAI correspond parfaitement à mes aspirations professionnelles et à ma passion pour résoudre des problématiques réelles et innovantes.
+Actuellement apprenant développeur full-stack à ADA Tech School, je souhaite rejoindre TheGiftsClub en tant qu’alternant Développeur Front-end. Votre mission d’engager les clients via des jeux personnalisés m’inspire particulièrement et je suis motivé à contribuer à vos projets dès la rentrée 2025.
     `.trim(),
     mainContent: `
-Au cours de mes formations à ADA Tech School et Wild Code School, j'ai acquis une solide expertise technique en React, Next.js, TypeScript, Node.js et PostgreSQL. J’ai notamment développé Streamia, une plateforme de streaming conçue en Next.js avec gestion complète de l'authentification et des médias, ainsi qu'une application de visualisation de données exploitant React, TypeScript et Chart.js. Ces expériences m'ont permis de maîtriser les méthodologies Agile, le Git Flow, et les pratiques de CI/CD avec Vercel et Render, tout en renforçant mon goût prononcé pour le travail en équipe.
+Durant mes formations à ADA Tech School et Wild Code School, j’ai acquis une solide expertise en React, TypeScript, Next.js et Node.js, tout en perfectionnant mes compétences à travers des projets en équipe et personnels, dont la plateforme de streaming “Streamia” développée en Next.js/TypeScript, ainsi qu’une interface de data visualisation en React/Chart.js. J’ai aussi mis en pratique les méthodes Agile/SCRUM, le Git Flow, la CI/CD et la collaboration en environnement remote.
 
-Ma curiosité et mon autonomie me poussent à constamment explorer les dernières technologies, notamment en matière de GenAI. J'apprécie particulièrement l'intégration de modèles d’intelligence artificielle dans les applications pour enrichir l’expérience utilisateur, un domaine que je souhaite approfondir au sein de votre équipe dynamique.
+Curieux et passionné par l’innovation, j’aime explorer les concepts back-end. Mon autonomie, ma capacité à apprendre vite et à travailler en équipe font de moi un candidat engagé pour relever les défis techniques de TheGiftsClub.
     `.trim(),
     conclusion: `
-Rejoindre Rakoono serait pour moi une opportunité exceptionnelle de contribuer activement à un projet à fort impact éducatif tout en poursuivant mon parcours vers la certification RNCP de niveau 6 de Concepteur-Développeur d’Applications Web & Mobile. Je suis à votre disposition pour toute discussion ou entretien afin d’approfondir ma motivation et mes compétences.
+Intégrer TheGiftsClub serait pour moi l’opportunité de participer à l’évolution de solutions ludiques et innovantes, tout en poursuivant ma formation vers le titre RNCP de Concepteur-Développeur d’Applications Web & Mobile. Je suis disponible pour Septembre 2025, y compris en full remote.
 
-Je vous remercie sincèrement pour l’attention que vous porterez à ma candidature.
+Je reste à votre disposition pour un échange, et vous remercie pour l’attention portée à ma candidature.
     `.trim(),
   },
   closing: {
-    regards: "Respectueusement,",
+    regards: "Bien cordialement,",
     signature: "Ange KOUAKOU",
   },
 };
