@@ -36,30 +36,30 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "22 juillet 2025",
-    recipientName: "Service des Ressources Humaines",
-    recipientCompany: "Sopra Steria",
-    recipientAddress: "Rue Serpentine, 92400 Courbevoie, France",
+    date: "28 juillet 2025",
+    recipientName: "Équipe Tech & RH",
+    recipientCompany: "Stimcar",
+    recipientAddress: "Couëron, Nantes, France",
   },
-  subject: "Candidature – Alternance Développeur Typescript",
-  salutation: "Madame, Monsieur,",
+  subject: "Candidature spontanée – Développeur Fullstack TypeScript",
+  salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Actuellement en formation développeur fullstack à ADA Tech School, je recherche une alternance de 12 à 36 mois dès septembre 2025. Je suis très enthousiaste à l'idée d'intégrer Sopra Steria pour contribuer activement au développement de la plateforme innovante KaNest-XGen.
+Actuellement en formation de Concepteur-Développeur d'Applications web et mobile à ADA Tech School, je suis à la recherche d’un contrat d’apprentissage de 12 à 36 mois dès septembre 2025. Passionné par les projets concrets et le code utile sur le terrain, j’ai été immédiatement séduit par la vision de Stimcar et votre manière d’allier technologie, industrie, et impact réel.
     `.trim(),
-
     mainContent: `
-Grâce à mon cursus chez ADA Tech School et mon expérience antérieure à la Wild Code School, j'ai acquis des compétences approfondies en JavaScript, TypeScript, Node.js, et React, que j'ai appliquées dans mes projets personnels tels que Streamia (Next.js, Prisma, MySQL) et Abyss (Angular, NestJS). Ces réalisations m'ont permis de maîtriser des environnements technologiques variés et d'adopter pleinement les méthodes agiles, les tests unitaires et d'intégration, ainsi que la pratique du Git Flow et du déploiement via Docker et CI/CD.
+Formé en développement fullstack, j’ai travaillé sur plusieurs projets personnels que j’ai conçus de bout en bout, comme Streamia (Next.js, Prisma, MySQL) ou Abyss (Angular, NestJS), et toujours dans une approche clean code, sécurité et déploiement CI/CD. Votre stack technique – TypeScript, React, Node.js, MariaDB, Docker – correspond à mon environnement de travail quotidien. J’utilise également Git, Linux, Prisma, et j’ai eu l’occasion d’explorer l’écosystème DevOps (Vercel, Render, AlwaysData).
 
-Rigoureux, autonome et intéressé par les nouvelles technologies, j'accorde une grande importance à la qualité du code, à la sécurité des applications et à l'amélioration continue. Mon adaptabilité et mon goût pour le travail en équipe me permettront de m'intégrer rapidement au sein de votre équipe agile et d'apporter une valeur ajoutée à vos projets.
+J’accorde une attention particulière à l’autonomie, la rigueur et la capacité à livrer vite et bien en mode agile. Le fait de développer dans un environnement connecté à l’univers automobile et à l’atelier me motive particulièrement : donner du sens à chaque ligne de code.
     `.trim(),
-
     conclusion: `
-Rejoindre Sopra Steria représente pour moi l'opportunité idéale d'approfondir mes connaissances techniques dans un contexte professionnel stimulant et innovant, tout en poursuivant ma formation vers le titre RNCP Concepteur-Développeur d’Applications Web & Mobile. Je reste à votre disposition pour échanger plus amplement lors d'un entretien.
+Je serais ravi de pouvoir contribuer aux projets tech de Stimcar, et d’échanger avec vous pour en savoir plus sur vos défis actuels. Vous trouverez en pièce jointe mon CV, et mes projets sont consultables sur mon GitHub ou mon portfolio.
+
+Au plaisir d’échanger prochainement !
     `.trim(),
   },
   closing: {
-    regards: "Cordialement,",
+    regards: "Bien à vous,",
     signature: "Ange KOUAKOU",
   },
 };
