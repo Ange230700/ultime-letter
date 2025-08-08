@@ -36,27 +36,22 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "5 août 2025",
+    date: "8 août 2025",
     recipientName: "Équipe Tech & RH",
-    recipientCompany: "Nanotera",
-    recipientAddress: "92300 Levallois-Perret, France",
+    recipientCompany: "Aimigo",
+    recipientAddress: "65 Rue de Reuilly, 75012 Paris, France",
   },
-  subject:
-    "Candidature spontanée – Contrat d’apprentissage développeur fullstack TypeScript",
+  subject: "Candidature – Stage Développeur React Native (6 mois)",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Actuellement en formation de Concepteur-Développeur d'Applications Web et Mobile à ADA Tech School, je suis à la recherche d’un contrat d’apprentissage de 12 à 36 mois à partir de septembre 2025. Intéressé par les défis techniques et l'innovation, votre approche mêlant excellence opérationnelle, projets variés, et stack technique moderne m'a particulièrement interpellé.
+J’ai découvert votre lancement d’Aimigo Coach avec beaucoup d’intérêt : le mélange entre technologie mobile, personnalisation, et impact concret dans la vie des apprenants me parle particulièrement. Je suis sensible à vos valeurs de diversité, de bienveillance, et à la dynamique multiculturelle de votre équipe, que je retrouve dans vos engagements et votre communication.
     `.trim(),
     mainContent: `
-Fort d’une solide expérience en développement fullstack, j'ai mené plusieurs projets personnels tels que Streamia (Next.js, Prisma, MySQL) et Abyss (Angular, NestJS). Ces expériences m'ont permis d'appliquer concrètement mes compétences en TypeScript, React, Node.js et Docker, tout en mettant en place des processus automatisés de CI/CD (Vercel, Render, AlwaysData). Je pratique régulièrement les principes SOLID et accorde une grande importance à la qualité du code, à l’agilité et à l'amélioration continue.
-
-Votre environnement technique – TypeScript, React et Node.js – correspond énormément à mes aspirations et compétences actuelles. Je suis particulièrement motivé par l’opportunité d’évoluer au sein d’une équipe expérimentée comme la vôtre, d’approfondir mes connaissances en conception d’architecture logicielle et de contribuer activement à des projets à forte valeur ajoutée.
+Je recherche un stage de 6 mois à partir de septembre/octobre 2025. Mon parcours m’a permis d’explorer la réalisation de projets concrets avec React, React Native, TypeScript, Node.js, et Prisma. J’ai eu l’opportunité de développer une application mobile (Shaka, avec React Native et Expo) pour visualiser des spots de surf dans le monde, incluant intégration d’API. Je travaille régulièrement en équipe et j’accorde une grande importance à l’autonomie, et à la solidarité au sein du collectif. Au fil de mes projets, j’ai affiné ma maîtrise de l’écosystème JavaScript/TypeScript, des outils de CI/CD, de la documentation API, et de la gestion de projet. Mon souci de la qualité de code et mon envie de progresser m’amènent aussi à explorer les bonnes pratiques. Rigoureux, déterminé et animé par la volonté de résoudre des problèmes réels, j’ai à cœur de toujours apprendre et de m’adapter à de nouveaux contextes techniques ou humains.
     `.trim(),
     conclusion: `
-Je serais ravi d’échanger avec vous sur les défis techniques auxquels vous êtes confrontés et sur la manière dont je pourrais y contribuer. Vous trouverez en pièce jointe mon CV, et mes projets sont disponibles sur mon portfolio ainsi que sur mon GitHub.
-
-Au plaisir d’un prochain échange,
+Je souhaite rejoindre Aimigo pour contribuer au développement de vos applications mobiles et participer à vos projets d’innovation pédagogique. Mes compétences en React Native, mon expérience avec les API seraient des atouts pour épauler votre équipe. J’aspire à évoluer dans un environnement où l’on partage le goût de la transmission, de l’ingéniosité et du travail bien fait, en participant à la fois à la conception, au développement et à l’optimisation de produits à impact. Je suis prêt à m’investir avec curiosité et ouverture d’esprit. Je serais ravi d’échanger avec vous sur vos enjeux techniques et sur la manière dont je pourrais y contribuer.
     `.trim(),
   },
   closing: {
