@@ -37,21 +37,21 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "8 août 2025",
-    recipientName: "Équipe Tech & RH",
-    recipientCompany: "Aimigo",
-    recipientAddress: "65 Rue de Reuilly, 75012 Paris, France",
+    recipientName: "Équipe Engineering",
+    recipientCompany: "Everysens",
+    recipientAddress: "[Lille / Paris]",
   },
-  subject: "Candidature – Stage Développeur React Native (6 mois)",
+  subject: "Candidature – Alternance Développeur Front Angular (2 ans)",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-J’ai découvert votre lancement d’Aimigo Coach avec beaucoup d’intérêt : le mélange entre technologie mobile, personnalisation, et impact concret dans la vie des apprenants me parle particulièrement. Je suis sensible à vos valeurs de diversité, de bienveillance, et à la dynamique multiculturelle de votre équipe, que je retrouve dans vos engagements et votre communication.
+Votre ambition d’offrir une supply chain plus résiliente fait sens pour moi, tout comme la place centrale que vous accordez à la qualité logicielle, à l’excellence, et au travail d’équipe. Le projet “Lego” de refonte graphique et d’implémentation d’un design system, dans un contexte de migration Angular et d’amélioration continue de l’expérience utilisateur, est une opportunité unique d'évoluer'.
     `.trim(),
     mainContent: `
-Je recherche un stage de 6 mois à partir de septembre/octobre 2025. Mon parcours m’a permis d’explorer la réalisation de projets concrets avec React, React Native, TypeScript, Node.js, et Prisma. J’ai eu l’opportunité de développer une application mobile (Shaka, avec React Native et Expo) pour visualiser des spots de surf dans le monde, incluant intégration d’API. Je travaille régulièrement en équipe et j’accorde une grande importance à l’autonomie, et à la solidarité au sein du collectif. Au fil de mes projets, j’ai affiné ma maîtrise de l’écosystème JavaScript/TypeScript, des outils de CI/CD, de la documentation API, et de la gestion de projet. Mon souci de la qualité de code et mon envie de progresser m’amènent aussi à explorer les bonnes pratiques. Rigoureux, déterminé et animé par la volonté de résoudre des problèmes réels, j’ai à cœur de toujours apprendre et de m’adapter à de nouveaux contextes techniques ou humains.
+Actuellement en formation de Concepteur-Développeur d’Applications Web et Mobile à ADA Tech School, je recherche une alternance à partir de septembre 2025. J’ai mené plusieurs projets concrets avec Angular, TypeScript, NodeJS, et des outils modernes du front (PrimeNG, Figma, monorepo Nx), qui m’ont permis d’acquérir de solides bases en développement, gestion de composants réutilisables, et intégration continue (CI/CD). Je porte une attention particulière à la qualité du code, aux bonnes pratiques (tests, documentation, clean architecture), et à la cohérence du design pour offrir une expérience utilisateur optimale. Autonome, rigoureux, et passionné de design UI/UX, j’ai également contribué à la création et à la documentation de composants dans des environnements d’équipe (méthodes agiles/SCRUM).
     `.trim(),
     conclusion: `
-Je souhaite rejoindre Aimigo pour contribuer au développement de vos applications mobiles et participer à vos projets d’innovation pédagogique. Mes compétences en React Native, mon expérience avec les API seraient des atouts pour épauler votre équipe. J’aspire à évoluer dans un environnement où l’on partage le goût de la transmission, de l’ingéniosité et du travail bien fait, en participant à la fois à la conception, au développement et à l’optimisation de produits à impact. Je suis prêt à m’investir avec curiosité et ouverture d’esprit. Je serais ravi d’échanger avec vous sur vos enjeux techniques et sur la manière dont je pourrais y contribuer.
+Je souhaite m’investir chez Everysens pour contribuer activement à la création de votre nouveau design system et participer à la migration technique de vos applications. Je me reconnais dans vos valeurs de curiosité, d’exigence et de bienveillance : je suis convaincu que l’échange avec vos équipes et l’accompagnement de profils expérimentés comme les vôtres seront de véritables leviers pour monter en compétences et enrichir vos projets. Je serais heureux de mettre mon énergie, mon sens du détail pour le front-end d’une solution qui a un impact concret sur la logistique durable en Europe.
     `.trim(),
   },
   closing: {
