@@ -37,21 +37,22 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "8 août 2025",
-    recipientName: "Équipe Engineering",
-    recipientCompany: "Everysens",
-    recipientAddress: "[Lille / Paris]",
+    recipientName: "À l’attention de l’équipe Tech & RH",
+    recipientCompany: "Nanotera",
+    recipientAddress: "92300 Levallois-Perret, France",
   },
-  subject: "Candidature – Alternance Développeur Front Angular (2 ans)",
+  subject:
+    "Candidature spontanée – Contrat d’apprentissage développeur fullstack TypeScript",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Votre ambition d’offrir une supply chain plus résiliente fait sens pour moi, tout comme la place centrale que vous accordez à la qualité logicielle, à l’excellence, et au travail d’équipe. Le projet “Lego” de refonte graphique et d’implémentation d’un design system, dans un contexte de migration Angular et d’amélioration continue de l’expérience utilisateur, est une opportunité unique d'évoluer'.
+Nanotera, grâce à ses équipes pluridisciplinaires et sa maîtrise de projets à fort enjeu, représente pour moi l’environnement idéal pour monter en compétences et contribuer à des solutions qui ont un réel impact. La diversité de votre stack technique (TypeScript, React, Docker…), votre attention à la qualité logicielle et votre culture de la transmission m’inspirent particulièrement.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web et Mobile à ADA Tech School, je recherche une alternance à partir de septembre 2025. J’ai mené plusieurs projets concrets avec Angular, TypeScript, NodeJS, et des outils modernes du front (PrimeNG, Figma, monorepo Nx), qui m’ont permis d’acquérir de solides bases en développement, gestion de composants réutilisables, et intégration continue (CI/CD). Je porte une attention particulière à la qualité du code, aux bonnes pratiques (tests, documentation, clean architecture), et à la cohérence du design pour offrir une expérience utilisateur optimale. Autonome, rigoureux, et passionné de design UI/UX, j’ai également contribué à la création et à la documentation de composants dans des environnements d’équipe (méthodes agiles/SCRUM).
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je suis à la recherche d’un contrat d’apprentissage de 12 à 36 mois à compter de septembre 2025, en vue d’obtenir la certification RNCP de niveau 6. Curieux et rigoureux, j’ai acquis de solides bases sur l’ensemble de la stack TypeScript : du front (React, Angular, Vue, Svelte) au back (Node.js, Express, NestJS), avec une attention particulière portée à la POO, aux principes SOLID et aux patterns de conception. J’ai mené divers projets : plateformes SaaS (Streamia, Abyss), applications mobiles (Shaka), microservices Docker (Nihil), et j’ai développé de nombreux composants réutilisables en mettant l’accent sur la maintenabilité et la performance. Je pratique la documentation, et la collaboration en équipe, tout en accordant une importance forte à l’autonomie, et à la transmission des bonnes pratiques.
     `.trim(),
     conclusion: `
-Je souhaite m’investir chez Everysens pour contribuer activement à la création de votre nouveau design system et participer à la migration technique de vos applications. Je me reconnais dans vos valeurs de curiosité, d’exigence et de bienveillance : je suis convaincu que l’échange avec vos équipes et l’accompagnement de profils expérimentés comme les vôtres seront de véritables leviers pour monter en compétences et enrichir vos projets. Je serais heureux de mettre mon énergie, mon sens du détail pour le front-end d’une solution qui a un impact concret sur la logistique durable en Europe.
+Je crois que rejoindre Nanotera dans le cadre d’un contrat d’apprentissage serait une expérience formatrice et stimulante. Mon adaptabilité et ma capacité à m’intégrer rapidement dans une équipe pourraient être de vrais atouts pour accompagner vos projets. En retour, évoluer auprès de professionnels expérimentés et exigeants comme ceux de Nanotera serait pour moi une occasion unique de progresser, d’approfondir mes compétences. Je reste à votre disposition pour un entretien afin d’échanger sur la façon dont je pourrais contribuer à vos équipes, et vous transmets en pièce jointe mon CV.
     `.trim(),
   },
   closing: {
