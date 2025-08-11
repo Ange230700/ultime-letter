@@ -37,21 +37,21 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "8 août 2025",
-    recipientName: "À l’attention de l’équipe Technique",
-    recipientCompany: "Campsider",
-    recipientAddress: "115 Boulevard de Sébastopol, 75002 Paris, France",
+    recipientName: "Responsable du recrutement",
+    recipientCompany: "Pappers",
+    recipientAddress: "Rue d'Aboukir, 75002 Paris, France",
   },
-  subject: "Candidature – Stage Développeur Web",
+  subject: "Candidature – Stage développeur Javascript",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-En tant que passionné de développement web et sensible à l’impact positif des solutions #TechForGood, j’ai été immédiatement séduit par la mission de Campsider : rendre l’aventure accessible tout en favorisant une consommation sportive plus responsable. Contribuer au développement et à l’évolution de votre outil d’onboarding vendeur, au sein d’une start-up en pleine croissance soutenue par des acteurs majeurs du sport, représente pour moi une opportunité idéale pour mettre mes compétences techniques au service d’un produit utile et engagé.
+Pappers me séduit par sa mission d’accessibilité et de transparence : rendre disponibles et fiables les données des entreprises françaises grâce à l’Open Data. Contribuer à l’amélioration d’une plateforme visitée par des millions de personnes et à l’API qui alimente de nombreux acteurs économiques représente pour moi un défi technique et un engagement concret en faveur de l’information libre et de qualité.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études à partir de Septembre/Octobre 2025. J’ai acquis une solide maîtrise des fondamentaux du web (HTML5, CSS3, JavaScript) et travaillé sur des projets intégrant JSON, CSV et SQL pour manipuler et présenter des données. J’ai également une expérience avec Node.js, Express et l’automatisation de tâches, ainsi que dans la conception et la mise à jour de documentations techniques. Mes projets m’ont permis de développer des interfaces claires et responsives, de corriger des bugs en production, et de travailler en équipe sur des outils collaboratifs (Git, GitHub) en méthode agile.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études à partir de septembre 2025. Je maîtrise JavaScript et TypeScript, avec une expérience significative en Node.js pour le développement back-end et l’intégration d’APIs. J’ai travaillé sur divers projets manipulant MySQL, Prisma, et Express, et je suis à l’aise avec la gestion de données et leur optimisation. Mes projets m’ont également permis d’explorer le front-end avec Vue.js, Nuxt.js et TailwindCSS, ainsi que l’intégration responsive de maquettes Figma. Je suis rigoureux dans la qualité du code, attentif à la performance et à la maintenabilité, et j’aime collaborer sur des projets en équipe agile, avec revue de code et documentation claire. Je suis particulièrement motivé par l’opportunité de travailler sur l’intégration de nouvelles bases Open Data, la fiabilisation des données, et le développement de nouvelles fonctionnalités qui bénéficieront à un large public.
     `.trim(),
     conclusion: `
-Rejoindre Campsider serait pour moi l’occasion de contribuer concrètement à vos projets techniques, tout en évoluant aux côtés de développeurs expérimentés et passionnés. Je suis motivé à participer à la maintenance, à l’automatisation et à la création d’outils internes qui amélioreront l’expérience de vos vendeurs et de vos équipes. Je serais ravi d’échanger avec vous pour discuter plus en détail de ma candidature. Vous trouverez mon CV en pièce jointe, et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
+Rejoindre Pappers serait pour moi l’occasion de mettre mes compétences fullstack au service d’un produit à fort impact, tout en apprenant aux côtés d’experts sur des problématiques techniques variées : Node.js, gestion de bases multiples, enrichissement et fiabilisation de données. Je serais ravi d’échanger avec vous pour discuter plus en détail de ma candidature. Vous trouverez mon CV en pièce jointe, et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
