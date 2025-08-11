@@ -37,21 +37,21 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "11 août 2025",
-    recipientName: "À l’attention de l’équipe Tech & RH",
-    recipientCompany: "Karmen",
-    recipientAddress: "17 Rue du Faubourg Montmartre, 75009 Paris, France",
+    recipientName: "Responsable du recrutement",
+    recipientCompany: "Flatsy",
+    recipientAddress: "50 Rue d'Aboukir, 75002 Paris, France",
   },
-  subject: "Candidature – Stage développeur fullstack TypeScript",
+  subject: "Candidature – Stage développeur frontend React",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Karmen incarne pour moi l’exemple d’une fintech innovante et ambitieuse, capable de transformer l’accès au financement grâce à la technologie. Votre approche, alliant fiabilité et simplicité pour vos clients, et votre exigence de qualité dans chaque ligne de code, correspondent à mes aspirations professionnelles. Participer à l’évolution d’une plateforme à fort impact business, au sein d’une équipe où chaque contribution compte, représente pour moi une opportunité stimulante.
+Flatsy m’a immédiatement séduit par son ambition de révolutionner la gestion des visites immobilières et des états des lieux, en offrant aux professionnels et aux candidats des parcours fluides et efficaces. L’opportunité de contribuer au développement et à l’unification de vos plateformes, tout en évoluant au sein d’une équipe expérimentée et passionnée, correspond parfaitement à mes aspirations techniques et humaines.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de septembre 2025. Je maîtrise TypeScript et React, et j’ai une expérience significative avec Node.js et NestJS pour la conception d’APIs robustes. Mes projets m’ont amené à intégrer des APIs tierces, gérer des transactions, et mettre en place des fonctionnalités back-end à forte valeur ajoutée. J’ai également travaillé sur la conception d’interfaces utilisateurs responsives et performantes, intégrant TailwindCSS et Prisma pour optimiser la gestion et la présentation des données. Rigoureux et soucieux de la qualité, je pratique la revue de code et l’écriture de tests afin d’assurer maintenabilité et performance.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études de 4 à 6 mois à partir de septembre 2025. Je maîtrise TypeScript et React, ainsi que la création d’interfaces performantes et maintenables. Mes projets m’ont permis d’intégrer de travailler avec des APIs documentées via Swagger, et de mettre en place des pipelines CI/CD pour assurer qualité et résilience du code. Mon expérience inclut le développement d’applications web responsives, l’optimisation des performances, la correction de bugs en production, et la participation à des revues de code en équipe agile. Curieux et rigoureux, j’apprécie particulièrement les environnements collaboratifs où l’échange de bonnes pratiques et la montée en compétences sont encouragés. Je suis également motivé par l’idée de contribuer à un produit concret et utile, en lien direct avec les besoins métiers.
     `.trim(),
     conclusion: `
-Rejoindre Karmen serait pour moi l’occasion de mettre mes compétences fullstack au service d’une plateforme financière innovante, tout en évoluant dans un environnement exigeant et formateur. Je serais ravi de contribuer à la conception, au développement et à l’optimisation de vos fonctionnalités, tout en apprenant auprès de vos experts pour répondre aux défis techniques et métier d’une fintech en pleine expansion. Vous trouverez mon CV en pièce jointe, et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je serais ravi d’échanger avec vous pour discuter plus en détail de ma candidature.
+Rejoindre Flatsy serait pour moi l’occasion d’apporter mes compétences frontend à un projet à fort impact, tout en bénéficiant du coaching de votre CTO et de l’expérience de vos équipes. Je serais ravi de contribuer à l’implémentation de nouvelles fonctionnalités, à la résolution d’incidents, et à l’amélioration continue de vos interfaces. Vous trouverez mon CV en pièce jointe et mes réalisations sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je me tiens à votre disposition pour échanger plus en détail sur ma candidature.
     `.trim(),
   },
   closing: {
