@@ -36,22 +36,22 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "8 août 2025",
-    recipientName: "Responsable du recrutement",
-    recipientCompany: "Pappers",
-    recipientAddress: "Rue d'Aboukir, 75002 Paris, France",
+    date: "11 août 2025",
+    recipientName: "À l’attention de l’équipe Technique",
+    recipientCompany: "Exceenis",
+    recipientAddress: "Rue de Provence, 13090 Aix-en-Provence, France",
   },
-  subject: "Candidature – Stage développeur Javascript",
+  subject: "Candidature – Stage Ingénieur Front End",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Pappers me séduit par sa mission d’accessibilité et de transparence : rendre disponibles et fiables les données des entreprises françaises grâce à l’Open Data. Contribuer à l’amélioration d’une plateforme visitée par des millions de personnes et à l’API qui alimente de nombreux acteurs économiques représente pour moi un défi technique et un engagement concret en faveur de l’information libre et de qualité.
+Exceenis m’a particulièrement séduit par son engagement en faveur de l’innovation technologique, de la production locale et de la réparabilité, tout en intégrant des composantes avancées comme l’IA, la computer vision et le machine learning. L’opportunité de contribuer à vos projets web, au sein d’un bureau d’étude dynamique, correspond pleinement à mes aspirations techniques.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études à partir de septembre 2025. Je maîtrise JavaScript et TypeScript, avec une expérience significative en Node.js pour le développement back-end et l’intégration d’APIs. J’ai travaillé sur divers projets manipulant MySQL, Prisma, et Express, et je suis à l’aise avec la gestion de données et leur optimisation. Mes projets m’ont également permis d’explorer le front-end avec Vue.js, Nuxt.js et TailwindCSS, ainsi que l’intégration responsive de maquettes Figma. Je suis rigoureux dans la qualité du code, attentif à la performance et à la maintenabilité, et j’aime collaborer sur des projets en équipe agile, avec revue de code et documentation claire. Je suis particulièrement motivé par l’opportunité de travailler sur l’intégration de nouvelles bases Open Data, la fiabilisation des données, et le développement de nouvelles fonctionnalités qui bénéficieront à un large public.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de septembre 2025. Je maîtrise HTML5, CSS3 et JavaScript, et j’ai une solide expérience avec React pour la création d’interfaces utilisateurs performantes et responsives. Côté back-end, je travaille régulièrement avec Node.js et TypeScript pour développer des API RESTful, gérer la logique serveur et interagir avec des bases de données relationnelles. Mes projets (plateformes SaaS, applications mobiles, back-offices) m’ont amené à collaborer avec des designers, à intégrer des maquettes Figma, et à optimiser le rendu pour offrir une expérience fluide. Je pratique le versioning avec Git, écris des tests unitaires pour fiabiliser le code, et suis habitué aux méthodes agiles. Mon profil fullstack me permet de naviguer aisément entre front et back, tout en restant attentif à la qualité, à la maintenabilité et à la sécurité des applications.
     `.trim(),
     conclusion: `
-Rejoindre Pappers serait pour moi l’occasion de mettre mes compétences fullstack au service d’un produit à fort impact, tout en apprenant aux côtés d’experts sur des problématiques techniques variées : Node.js, gestion de bases multiples, enrichissement et fiabilisation de données. Je serais ravi d’échanger avec vous pour discuter plus en détail de ma candidature. Vous trouverez mon CV en pièce jointe, et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700).
+Rejoindre Exceenis serait pour moi l’occasion de mettre mes compétences au service de produits innovants et responsables, tout en évoluant au contact d’une équipe expérimentée et multidisciplinaire. Je suis motivé à contribuer activement au développement et à l’optimisation de vos applications web, et à participer à vos projets ambitieux mêlant électronique, robotique et logiciel. Vous trouverez mon CV en pièce jointe, et mes réalisations sont consultables sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je serais ravi d’échanger avec vous afin de discuter plus en détail de ma candidature.
     `.trim(),
   },
   closing: {
