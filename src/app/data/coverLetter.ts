@@ -37,7 +37,7 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "8 août 2025",
-    recipientName: "À l’attention d’Olivier, Lead dev – Équipe Console",
+    recipientName: "Responsable du recrutement",
     recipientCompany: "Evermaps",
     recipientAddress: "15 Rue Pasquier, 75008 Paris, France",
   },
@@ -45,7 +45,7 @@ const coverLetterData: CoverLetterData = {
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Evermaps, par son expertise dans l’optimisation de la visibilité digitale des réseaux de points de vente, m'intrigue particulièrement par l’impact concret de ses solutions et par son approche technologique exigeante. Votre projet au sein de l’équipe Console, visant à enrichir et optimiser l’interface web utilisée par vos clients, correspond parfaitement à mes compétences et à mon envie de contribuer à des développements front-end de qualité, performants et centrés sur l’utilisateur.
+Votre projet au sein de l’équipe Console, visant à enrichir et optimiser l’interface web utilisée par vos clients, correspond parfaitement à mes compétences et à mon envie de contribuer à des développements front-end de qualité, performants et centrés sur l’utilisateur.
     `.trim(),
     mainContent: `
 Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je prépare un titre RNCP de niveau 6 et recherche un contrat d’un an à partir de septembre 2025. Je maîtrise JavaScript, HTML5 et CSS3, et j’ai de solides compétences en TypeScript et Angular, acquises à travers différents projets : intégration responsive de maquettes, développement de composants réutilisables, optimisation des performances et gestion de l’état des applications.
