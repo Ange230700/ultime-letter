@@ -37,21 +37,21 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "11 août 2025",
-    recipientName: "Responsable du recrutement",
-    recipientCompany: "Flatsy",
-    recipientAddress: "50 Rue d'Aboukir, 75002 Paris, France",
+    recipientName: "À l’attention de l’équipe Tech & RH",
+    recipientCompany: "ModaResa",
+    recipientAddress: "5 Parvis Alan Turing, 75013 Paris, France",
   },
-  subject: "Candidature – Stage développeur frontend React",
+  subject: "Candidature – Alternance Full Stack Developer",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Flatsy m’a immédiatement séduit par son ambition de révolutionner la gestion des visites immobilières et des états des lieux, en offrant aux professionnels et aux candidats des parcours fluides et efficaces. L’opportunité de contribuer au développement et à l’unification de vos plateformes, tout en évoluant au sein d’une équipe expérimentée et passionnée, correspond parfaitement à mes aspirations techniques et humaines.
+ModaResa m’inspire par sa mission de révolutionner la planification des showroom sales campaigns dans la mode, tout en optimisant l’efficacité opérationnelle et en réduisant l’empreinte carbone du secteur. L’opportunité de rejoindre une équipe passionnée, de travailler sur un produit à fort impact et d’intégrer l’IA comme levier central d’innovation correspond pleinement à mes aspirations techniques et à mes valeurs.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études de 4 à 6 mois à partir de septembre 2025. Je maîtrise TypeScript et React, ainsi que la création d’interfaces performantes et maintenables. Mes projets m’ont permis d’intégrer de travailler avec des APIs documentées via Swagger, et de mettre en place des pipelines CI/CD pour assurer qualité et résilience du code. Mon expérience inclut le développement d’applications web responsives, l’optimisation des performances, la correction de bugs en production, et la participation à des revues de code en équipe agile. Curieux et rigoureux, j’apprécie particulièrement les environnements collaboratifs où l’échange de bonnes pratiques et la montée en compétences sont encouragés. Je suis également motivé par l’idée de contribuer à un produit concret et utile, en lien direct avec les besoins métiers.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une alternance de 12 à 24 mois à partir de septembre 2025. Je maîtrise JavaScript/TypeScript et j’ai développé plusieurs projets concrets en React (frontend) et Node.js/NestJS (backend), intégrant des APIs REST et des bases de données SQL. J’ai également une forte curiosité pour l’IA et les LLMs. Mes expériences m’ont permis de concevoir des interfaces intuitives avec TailwindCSS, de mettre en place des architectures modulaires, de développer des fonctionnalités à fort impact business et de maintenir un haut niveau de qualité grâce aux tests et revues de code.
     `.trim(),
     conclusion: `
-Rejoindre Flatsy serait pour moi l’occasion d’apporter mes compétences frontend à un projet à fort impact, tout en bénéficiant du coaching de votre CTO et de l’expérience de vos équipes. Je serais ravi de contribuer à l’implémentation de nouvelles fonctionnalités, à la résolution d’incidents, et à l’amélioration continue de vos interfaces. Vous trouverez mon CV en pièce jointe et mes réalisations sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je me tiens à votre disposition pour échanger plus en détail sur ma candidature.
+Rejoindre ModaResa serait pour moi l’occasion de contribuer activement à un projet ambitieux et durable, tout en développant mes compétences fullstack et en approfondissant mes connaissances en IA appliquée. Je serais heureux de mettre mon énergie, mon sens du détail et ma capacité d’adaptation au service de votre mission, et de grandir au contact d’une équipe expérimentée. Mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je reste à votre disposition pour échanger sur ma candidature et la manière dont je pourrais contribuer à vos projets.
     `.trim(),
   },
   closing: {
