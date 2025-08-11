@@ -36,24 +36,22 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "11 août 2025",
-    recipientName: "Responsable du recrutement",
-    recipientCompany: "Edumapper",
-    recipientAddress: "Avenue des Champs-Élysées, 75008 Paris, France",
+    date: "8 août 2025",
+    recipientName: "À l’attention de l’équipe Technique",
+    recipientCompany: "Campsider",
+    recipientAddress: "115 Boulevard de Sébastopol, 75002 Paris, France",
   },
-  subject: "Candidature – Stage développeur fullstack",
+  subject: "Candidature – Stage Développeur Web",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Edumapper allie mission sociale forte et ambition technologique, avec l’objectif d’accompagner chaque étudiant dans ses choix d’orientation. Votre engagement en faveur d’un outil accessible, scientifique et à fort impact social correspond pleinement à mes valeurs. La perspective de contribuer à l’évolution de votre plateforme en rejoignant une petite équipe passionnée, tout en développant des fonctionnalités front et back sur une stack moderne, est une opportunité qui m’enthousiasme particulièrement.
+En tant que passionné de développement web et sensible à l’impact positif des solutions #TechForGood, j’ai été immédiatement séduit par la mission de Campsider : rendre l’aventure accessible tout en favorisant une consommation sportive plus responsable. Contribuer au développement et à l’évolution de votre outil d’onboarding vendeur, au sein d’une start-up en pleine croissance soutenue par des acteurs majeurs du sport, représente pour moi une opportunité idéale pour mettre mes compétences techniques au service d’un produit utile et engagé.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de Septembre/Octobre 2025. Mes expériences m’ont permis de maîtriser JavaScript, TypeScript, Node.js, et d’explorer différents frameworks front tels que Vue, Nuxt, React et Angular. J’ai conçu et intégré des interfaces responsives avec TailwindCSS, manipulé des données via des APIs REST, et travaillé sur des projets fullstack allant de plateformes SaaS à des applications mobiles.
-
-Je pratique le développement collaboratif avec Git, et je porte une attention particulière à la qualité du code, à la performance et à la maintenabilité. Mes projets personnels comme professionnels m’ont appris à naviguer entre le front et le back, à intégrer des maquettes issues de Figma, et à optimiser l’expérience utilisateur.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études à partir de Septembre/Octobre 2025. J’ai acquis une solide maîtrise des fondamentaux du web (HTML5, CSS3, JavaScript) et travaillé sur des projets intégrant JSON, CSV et SQL pour manipuler et présenter des données. J’ai également une expérience avec Node.js, Express et l’automatisation de tâches, ainsi que dans la conception et la mise à jour de documentations techniques. Mes projets m’ont permis de développer des interfaces claires et responsives, de corriger des bugs en production, et de travailler en équipe sur des outils collaboratifs (Git, GitHub) en méthode agile.
     `.trim(),
     conclusion: `
-Rejoindre Edumapper serait pour moi l’occasion de mettre mes compétences techniques au service d’un produit utile, tout en continuant à apprendre aux côtés d’une équipe exigeante et inspirante. Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais contribuer à l’innovation et à l’amélioration continue de votre plateforme. Vous trouverez mon CV en pièce jointe et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
+Rejoindre Campsider serait pour moi l’occasion de contribuer concrètement à vos projets techniques, tout en évoluant aux côtés de développeurs expérimentés et passionnés. Je suis motivé à participer à la maintenance, à l’automatisation et à la création d’outils internes qui amélioreront l’expérience de vos vendeurs et de vos équipes. Je serais ravi d’échanger avec vous pour discuter plus en détail de ma candidature. Vous trouverez mon CV en pièce jointe, et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
