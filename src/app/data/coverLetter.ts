@@ -36,26 +36,24 @@ const coverLetterData: CoverLetterData = {
     senderAddress: "44000 Nantes, France",
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
-    date: "8 août 2025",
+    date: "11 août 2025",
     recipientName: "Responsable du recrutement",
-    recipientCompany: "Evermaps",
-    recipientAddress: "15 Rue Pasquier, 75008 Paris, France",
+    recipientCompany: "Edumapper",
+    recipientAddress: "Avenue des Champs-Élysées, 75008 Paris, France",
   },
-  subject: "Candidature – Alternance Développeur front-end Angular (1 an)",
+  subject: "Candidature – Stage développeur fullstack",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Votre projet au sein de l’équipe Console, visant à enrichir et optimiser l’interface web utilisée par vos clients, correspond parfaitement à mes compétences et à mon envie de contribuer à des développements front-end de qualité, performants et centrés sur l’utilisateur.
+Edumapper allie mission sociale forte et ambition technologique, avec l’objectif d’accompagner chaque étudiant dans ses choix d’orientation. Votre engagement en faveur d’un outil accessible, scientifique et à fort impact social correspond pleinement à mes valeurs. La perspective de contribuer à l’évolution de votre plateforme en rejoignant une petite équipe passionnée, tout en développant des fonctionnalités front et back sur une stack moderne, est une opportunité qui m’enthousiasme particulièrement.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je prépare un titre RNCP de niveau 6 et recherche un contrat d’un an à partir de septembre 2025. Je maîtrise JavaScript, HTML5 et CSS3, et j’ai de solides compétences en TypeScript et Angular, acquises à travers différents projets : intégration responsive de maquettes, développement de composants réutilisables, optimisation des performances et gestion de l’état des applications.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de Septembre/Octobre 2025. Mes expériences m’ont permis de maîtriser JavaScript, TypeScript, Node.js, et d’explorer différents frameworks front tels que Vue, Nuxt, React et Angular. J’ai conçu et intégré des interfaces responsives avec TailwindCSS, manipulé des données via des APIs REST, et travaillé sur des projets fullstack allant de plateformes SaaS à des applications mobiles.
 
-Mes réalisations incluent la plateforme Abyss (Angular, PrimeNG, NestJS), où j’ai travaillé sur la gestion des données via API et la documentation technique. Je suis à l’aise avec Git, le travail collaboratif en équipe agile, et j’accorde une grande importance à la qualité du code, aux revues, et à la maintenabilité des projets. Curieux et autonome, je sais m’adapter rapidement et j’apprécie particulièrement les échanges techniques qui permettent à la fois de progresser et d’améliorer collectivement le produit.
+Je pratique le développement collaboratif avec Git, et je porte une attention particulière à la qualité du code, à la performance et à la maintenabilité. Mes projets personnels comme professionnels m’ont appris à naviguer entre le front et le back, à intégrer des maquettes issues de Figma, et à optimiser l’expérience utilisateur.
     `.trim(),
     conclusion: `
-Rejoindre Evermaps dans le cadre de cette alternance serait pour moi l’occasion de mettre à profit mes compétences Angular et front-end tout en apprenant auprès de professionnels expérimentés. Je suis motivé à contribuer activement aux intégrations, aux nouvelles fonctionnalités et aux optimisations que vous envisagez pour votre console. Je serais ravi d’échanger avec vous afin de vous présenter mes réalisations et de discuter de la manière dont je pourrais participer à vos projets.
-
-Vous trouverez mon CV en pièce jointe et mes projets sont visibles sur mon portfolio (https://ultime-portfolio.vercel.app/) ainsi que sur mon GitHub (https://github.com/Ange230700).
+Rejoindre Edumapper serait pour moi l’occasion de mettre mes compétences techniques au service d’un produit utile, tout en continuant à apprendre aux côtés d’une équipe exigeante et inspirante. Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais contribuer à l’innovation et à l’amélioration continue de votre plateforme. Vous trouverez mon CV en pièce jointe et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
