@@ -37,22 +37,25 @@ const coverLetterData: CoverLetterData = {
     senderEmail: "kouakouangeericstephane@gmail.com",
     senderPhone: "+33 7 59 80 23 43",
     date: "8 août 2025",
-    recipientName: "À l’attention de l’équipe Tech & RH",
-    recipientCompany: "Nanotera",
-    recipientAddress: "92300 Levallois-Perret, France",
+    recipientName: "À l’attention d’Olivier, Lead dev – Équipe Console",
+    recipientCompany: "Evermaps",
+    recipientAddress: "15 Rue Pasquier, 75008 Paris, France",
   },
-  subject:
-    "Candidature spontanée – Contrat d’apprentissage développeur fullstack TypeScript",
+  subject: "Candidature – Alternance Développeur front-end Angular (1 an)",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Nanotera, grâce à ses équipes pluridisciplinaires et sa maîtrise de projets à fort enjeu, représente pour moi l’environnement idéal pour monter en compétences et contribuer à des solutions qui ont un réel impact. La diversité de votre stack technique (TypeScript, React, Docker…), votre attention à la qualité logicielle et votre culture de la transmission m’inspirent particulièrement.
+Evermaps, par son expertise dans l’optimisation de la visibilité digitale des réseaux de points de vente, m'intrigue particulièrement par l’impact concret de ses solutions et par son approche technologique exigeante. Votre projet au sein de l’équipe Console, visant à enrichir et optimiser l’interface web utilisée par vos clients, correspond parfaitement à mes compétences et à mon envie de contribuer à des développements front-end de qualité, performants et centrés sur l’utilisateur.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je suis à la recherche d’un contrat d’apprentissage de 12 à 36 mois à compter de septembre 2025, en vue d’obtenir la certification RNCP de niveau 6. Curieux et rigoureux, j’ai acquis de solides bases sur l’ensemble de la stack TypeScript : du front (React, Angular, Vue, Svelte) au back (Node.js, Express, NestJS), avec une attention particulière portée à la POO, aux principes SOLID et aux patterns de conception. J’ai mené divers projets : plateformes SaaS (Streamia, Abyss), applications mobiles (Shaka), microservices Docker (Nihil), et j’ai développé de nombreux composants réutilisables en mettant l’accent sur la maintenabilité et la performance. Je pratique la documentation, et la collaboration en équipe, tout en accordant une importance forte à l’autonomie, et à la transmission des bonnes pratiques.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je prépare un titre RNCP de niveau 6 et recherche un contrat d’un an à partir de septembre 2025. Je maîtrise JavaScript, HTML5 et CSS3, et j’ai de solides compétences en TypeScript et Angular, acquises à travers différents projets : intégration responsive de maquettes, développement de composants réutilisables, optimisation des performances et gestion de l’état des applications.
+
+Mes réalisations incluent la plateforme Abyss (Angular, PrimeNG, NestJS), où j’ai travaillé sur la gestion des données via API et la documentation technique. Je suis à l’aise avec Git, le travail collaboratif en équipe agile, et j’accorde une grande importance à la qualité du code, aux revues, et à la maintenabilité des projets. Curieux et autonome, je sais m’adapter rapidement et j’apprécie particulièrement les échanges techniques qui permettent à la fois de progresser et d’améliorer collectivement le produit.
     `.trim(),
     conclusion: `
-Je crois que rejoindre Nanotera dans le cadre d’un contrat d’apprentissage serait une expérience formatrice et stimulante. Mon adaptabilité et ma capacité à m’intégrer rapidement dans une équipe pourraient être de vrais atouts pour accompagner vos projets. En retour, évoluer auprès de professionnels expérimentés et exigeants comme ceux de Nanotera serait pour moi une occasion unique de progresser, d’approfondir mes compétences. Je reste à votre disposition pour un entretien afin d’échanger sur la façon dont je pourrais contribuer à vos équipes, et vous transmets en pièce jointe mon CV.
+Rejoindre Evermaps dans le cadre de cette alternance serait pour moi l’occasion de mettre à profit mes compétences Angular et front-end tout en apprenant auprès de professionnels expérimentés. Je suis motivé à contribuer activement aux intégrations, aux nouvelles fonctionnalités et aux optimisations que vous envisagez pour votre console. Je serais ravi d’échanger avec vous afin de vous présenter mes réalisations et de discuter de la manière dont je pourrais participer à vos projets.
+
+Vous trouverez mon CV en pièce jointe et mes projets sont visibles sur mon portfolio (https://ultime-portfolio.vercel.app/) ainsi que sur mon GitHub (https://github.com/Ange230700).
     `.trim(),
   },
   closing: {
