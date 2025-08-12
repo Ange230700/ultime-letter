@@ -38,22 +38,22 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "SOCOTEC",
-    recipientAddress: "France",
+    recipientCompany: "Idun-group",
+    recipientAddress: "75015 Paris, France",
   },
-  subject: "Candidature – Stage Développeur Full Stack",
+  subject: "Candidature – Alternance Développeur Front-End (React / Next.js)",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-La plateforme IoT de SOCOTEC, avec ses enjeux techniques variés allant de l’intégration de données capteurs à la visualisation 3D BIM, représente pour moi un environnement idéal pour mettre en pratique mes compétences full stack et continuer à progresser. Participer au développement d’outils innovants, tout en travaillant aux côtés d’experts dans des domaines transdisciplinaires, correspond pleinement à mes aspirations.
+Votre vision d’associer le développement front-end à l’intégration d’agents IA pour créer des applications métier performantes et innovantes m’enthousiasme particulièrement. Contribuer à des projets concrets dans un environnement où l’UX et l’innovation technologique sont au cœur des priorités correspond pleinement à mes aspirations professionnelles et à ma volonté d’évoluer sur des technologies modernes comme React, Next.js et TypeScript.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études à partir de septembre 2025. Je maîtrise JavaScript/TypeScript, React pour la création d’interfaces dynamiques et Node.js pour le développement d’APIs et la gestion de données côté serveur. J’ai également travaillé avec les bases de données relationnelles pour la structuration et l’optimisation des données, ainsi qu’avec Git et Github dans des environnements collaboratifs.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une alternance à partir de septembre 2025. Je possède de solides bases en JavaScript et TypeScript, et j’ai déjà développé des interfaces dynamiques avec React et Next.js dans le cadre de projets académiques et personnels. Mes expériences m’ont permis d’intégrer des APIs REST, de créer des composants réutilisables, et d’optimiser les performances pour offrir une expérience utilisateur fluide.
 
-Mes projets m’ont permis de développer des dashboards interactifs, de concevoir des systèmes d’alertes et de travailler sur l’intégration d’APIs externes. Je suis rigoureux dans l’écriture et la documentation du code, et à l’aise pour collaborer en méthode agile (SCRUM), notamment sur des projets complexes nécessitant coordination et évolutivité.
+Je maîtrise l’utilisation de Git pour la gestion de version, je suis à l’aise avec les principes de responsive design et je m’intéresse particulièrement à l’accessibilité et à l’ergonomie des interfaces. Mon profil est également marqué par une curiosité constante pour les technologies émergentes, notamment autour de l’IA générative, et une envie de contribuer à des solutions concrètes qui améliorent la productivité et l’efficacité des utilisateurs finaux.
     `.trim(),
     conclusion: `
-Rejoindre SOCOTEC me permettrait de contribuer activement à l’architecture et au développement de votre plateforme IoT, tout en approfondissant mes compétences sur des technologies de pointe comme le SIG, le BIM et les systèmes d’alertes en temps réel. Je serais heureux d’échanger avec vous pour discuter de ma candidature et de la manière dont je pourrais participer à vos projets.
+Rejoindre votre équipe me permettrait de mettre mes compétences techniques au service de projets à forte valeur ajoutée, tout en approfondissant mes connaissances sur le développement front-end et l’intégration d’outils d’IA. Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais contribuer à vos ambitions et m’investir pleinement dans cette mission.
 
 Vous trouverez mon CV en pièce jointe, et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
