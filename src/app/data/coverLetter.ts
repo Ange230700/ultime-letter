@@ -38,25 +38,24 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Aubay – Agence de Bordeaux",
-    recipientAddress: "Bordeaux, France",
+    recipientCompany: "Naboo",
+    recipientAddress: "7 Rue de Paradis, 75010 Paris, France",
   },
-  subject:
-    "Candidature spontanée – Stage / Alternance Développeur JS / Node.js",
+  subject: "Candidature – Stage Fullstack Typescript",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Votre agence bordelaise, avec son esprit d’équipe, sa proximité avec ses collaborateurs et ses projets innovants auprès de clients prestigieux, correspond parfaitement à l’environnement professionnel dans lequel je souhaite évoluer. Je me permets de vous adresser ma candidature spontanée pour un stage ou une alternance, convaincu que mon profil et ma motivation peuvent également contribuer à vos projets.
+Rejoindre Naboo et contribuer à réinventer l’organisation des événements d’entreprise, dans un environnement où la réactivité, la qualité logicielle et l’impact produit sont au cœur des priorités, correspond parfaitement à mes aspirations. Votre approche alliant automatisation intelligente, réduction des tâches répétitives et expérience utilisateur soignée m’inspire particulièrement.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une expérience de 6 à 24 mois à partir de septembre 2025. Je maîtrise JavaScript/TypeScript et Node.js, avec une expérience en conception et développement d’API RESTful, intégration de bases de données MongoDB et mise en place de pipelines CI/CD. J’ai également travaillé avec Jest pour la réalisation de tests unitaires, et je suis familier avec les environnements collaboratifs Git ainsi qu’avec la méthodologie agile.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de septembre 2025. Je maîtrise JavaScript/TypeScript et j’ai travaillé sur des projets complets utilisant Node.js et NestJS côté backend, ainsi que React et Next.js côté frontend. Mon expérience inclut la création et l’intégration d’APIs GraphQL, la gestion de bases de données MongoDB, et le développement d’interfaces performantes et maintenables.
 
-Mes projets personnels et académiques m’ont permis de développer des applications, de la définition des besoins jusqu’au déploiement, en veillant à la qualité du code, à la performance et à la documentation. Rigoureux et proactif, j’apprécie particulièrement le travail en équipe et les échanges techniques, et je suis motivé par l’idée de progresser aux côtés de développeurs expérimentés.
+Au fil de mes projets, j’ai appris à naviguer dans des environnements dynamiques, à prendre en charge un sujet de bout en bout, et à contribuer à l’amélioration continue du code et des pratiques techniques. Curieux et autonome, j’apprécie particulièrement le partage de connaissances et la collaboration inter-équipes pour avancer plus vite et mieux.
     `.trim(),
     conclusion: `
-Intégrer Aubay Bordeaux en stage ou alternance serait pour moi l’opportunité de contribuer activement à vos projets tout en consolidant mes compétences sur des environnements exigeants et stimulants. Je serais ravi d’échanger avec vous pour discuter de la manière dont je pourrais m’impliquer dans vos missions actuelles et futures.
+Intégrer Naboo serait pour moi l’occasion de mettre mes compétences fullstack au service d’une plateforme ambitieuse, tout en évoluant dans un cadre exigeant et bienveillant qui valorise la clarté, l’autonomie et l’impact. Je serais ravi d’échanger avec vous pour discuter de ma candidature et de la manière dont je pourrais contribuer à vos projets en cours et à venir.
 
-Vous trouverez mon CV en pièce jointe, et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
+Vous trouverez mon CV en pièce jointe et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
