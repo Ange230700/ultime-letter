@@ -38,24 +38,20 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Idun-group",
-    recipientAddress: "75015 Paris, France",
+    recipientCompany: "Ipsos Synthesio",
+    recipientAddress: "Paris, France",
   },
-  subject: "Candidature – Alternance Développeur Front-End (React / Next.js)",
+  subject: "Candidature – Alternance Front End Engineer",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Votre vision d’associer le développement front-end à l’intégration d’agents IA pour créer des applications métier performantes et innovantes m’enthousiasme particulièrement. Contribuer à des projets concrets dans un environnement où l’UX et l’innovation technologique sont au cœur des priorités correspond pleinement à mes aspirations professionnelles et à ma volonté d’évoluer sur des technologies modernes comme React, Next.js et TypeScript.
+Intégrer Ipsos Synthesio, avec sa mission d’exploiter des ensembles de données massifs pour fournir des insights clairs et actionnables, représente pour moi l’opportunité idéale d’allier mes compétences en développement front-end et mon intérêt pour l’analyse de données à grande échelle. Votre engagement pour l’innovation, l’UX et la qualité logicielle correspond parfaitement à mes aspirations professionnelles.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une alternance à partir de septembre 2025. Je possède de solides bases en JavaScript et TypeScript, et j’ai déjà développé des interfaces dynamiques avec React et Next.js dans le cadre de projets académiques et personnels. Mes expériences m’ont permis d’intégrer des APIs REST, de créer des composants réutilisables, et d’optimiser les performances pour offrir une expérience utilisateur fluide.
-
-Je maîtrise l’utilisation de Git pour la gestion de version, je suis à l’aise avec les principes de responsive design et je m’intéresse particulièrement à l’accessibilité et à l’ergonomie des interfaces. Mon profil est également marqué par une curiosité constante pour les technologies émergentes, notamment autour de l’IA générative, et une envie de contribuer à des solutions concrètes qui améliorent la productivité et l’efficacité des utilisateurs finaux.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une alternance de 12 à 24 mois à partir de septembre 2025. Je maîtrise JavaScript/TypeScript, HTML5 et CSS3, et j’ai déjà conçu des interfaces dynamiques avec React, en intégrant des APIs REST et en développant des composants réutilisables dans une architecture modulaire. Mes projets m’ont permis de travailler sur des visualisations de données, d’optimiser le rendu pour améliorer l’expérience utilisateur et de mettre en place des pratiques de qualité comme les tests unitaires (Vitest) et end-to-end. Rigoureux et curieux, j’apprécie de travailler en équipe dans des environnements agiles. Je suis particulièrement motivé par l’idée de contribuer à la création de dashboards et visualisations intuitives permettant de simplifier la complexité du Big Data pour vos utilisateurs, tout en respectant vos standards élevés de qualité et de performance.
     `.trim(),
     conclusion: `
-Rejoindre votre équipe me permettrait de mettre mes compétences techniques au service de projets à forte valeur ajoutée, tout en approfondissant mes connaissances sur le développement front-end et l’intégration d’outils d’IA. Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais contribuer à vos ambitions et m’investir pleinement dans cette mission.
-
-Vous trouverez mon CV en pièce jointe, et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
+Rejoindre Ipsos Synthesio me permettrait de mettre mes compétences techniques au service de projets ambitieux, tout en développant mon expertise dans le traitement et la présentation de données massives. Je serais heureux de contribuer à vos solutions innovantes et de participer à votre dynamique collaborative. Vous trouverez mon CV en pièce jointe et mes réalisations sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je me tiens à votre disposition pour un entretien afin d’échanger sur ma candidature.
     `.trim(),
   },
   closing: {
