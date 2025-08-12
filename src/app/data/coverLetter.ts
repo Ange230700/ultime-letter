@@ -38,24 +38,25 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "onRuntime Studio",
-    recipientAddress: "Rouen, France",
+    recipientCompany: "Aubay – Agence de Bordeaux",
+    recipientAddress: "Bordeaux, France",
   },
-  subject: "Candidature – Stage Frontend Developer",
+  subject:
+    "Candidature spontanée – Stage / Alternance Développeur JS / Node.js",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Rejoindre onRuntime Studio pour participer au développement de Tonight Pass représente pour moi une opportunité enthousiasmante. L’idée de contribuer à une application événementielle innovante, pensée pour améliorer l’expérience des utilisateurs et des organisateurs, correspond à la fois à mon intérêt pour les projets à impact et à mon envie de travailler dans un environnement collaboratif, créatif et stimulant.
+Votre agence bordelaise, avec son esprit d’équipe, sa proximité avec ses collaborateurs et ses projets innovants auprès de clients prestigieux, correspond parfaitement à l’environnement professionnel dans lequel je souhaite évoluer. Je me permets de vous adresser ma candidature spontanée pour un stage ou une alternance, convaincu que mon profil et ma motivation peuvent également contribuer à vos projets.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de septembre 2025. Je maîtrise JavaScript/TypeScript et j’ai une expérience concrète avec React et Next.js pour la création d’interfaces dynamiques et performantes. Je suis également familier avec React Native pour le développement mobile.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une expérience de 6 à 24 mois à partir de septembre 2025. Je maîtrise JavaScript/TypeScript et Node.js, avec une expérience en conception et développement d’API RESTful, intégration de bases de données MongoDB et mise en place de pipelines CI/CD. J’ai également travaillé avec Jest pour la réalisation de tests unitaires, et je suis familier avec les environnements collaboratifs Git ainsi qu’avec la méthodologie agile.
 
-Mes projets m’ont amené à intégrer des APIs, optimiser les performances front-end et résoudre des bugs en autonomie tout en respectant les bonnes pratiques de développement. J’accorde une attention particulière à la communication au sein de l’équipe, que ce soit pour coordonner l’intégration avec le back-end ou pour proposer des améliorations UX/UI. Mon objectif est de livrer un code maintenable, performant et agréable à faire évoluer.
+Mes projets personnels et académiques m’ont permis de développer des applications, de la définition des besoins jusqu’au déploiement, en veillant à la qualité du code, à la performance et à la documentation. Rigoureux et proactif, j’apprécie particulièrement le travail en équipe et les échanges techniques, et je suis motivé par l’idée de progresser aux côtés de développeurs expérimentés.
     `.trim(),
     conclusion: `
-Rejoindre l’équipe de Tonight Pass me permettrait de contribuer à un projet innovant tout en continuant à développer mes compétences dans un environnement bienveillant et passionné. Je serais ravi de mettre mon énergie et mes compétences au service de votre produit et d’apprendre aux côtés de votre équipe technique expérimentée.
+Intégrer Aubay Bordeaux en stage ou alternance serait pour moi l’opportunité de contribuer activement à vos projets tout en consolidant mes compétences sur des environnements exigeants et stimulants. Je serais ravi d’échanger avec vous pour discuter de la manière dont je pourrais m’impliquer dans vos missions actuelles et futures.
 
-Vous trouverez mon CV en pièce jointe et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700). Je reste à votre disposition pour échanger sur ma candidature.
+Vous trouverez mon CV en pièce jointe, et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
