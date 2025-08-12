@@ -38,25 +38,24 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "GE HealthCare",
-    recipientAddress: "Buc, France",
+    recipientCompany: "onRuntime Studio",
+    recipientAddress: "Rouen, France",
   },
-  subject:
-    "Candidature – Stage/Alternance Ingénieur – Réalité étendue sur application web",
+  subject: "Candidature – Stage Frontend Developer",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-L’opportunité de contribuer au développement d’un outil web innovant basé sur la réalité mixte pour GE HealthCare représente pour moi un projet à la fois technique et porteur de sens. La perspective de mettre la XR et les technologies 3D au service de la formation médicale, de la préparation d’interventions et du suivi des patients correspond à mes aspirations professionnelles et à ma volonté de participer à des solutions ayant un impact concret sur la santé.
+Rejoindre onRuntime Studio pour participer au développement de Tonight Pass représente pour moi une opportunité enthousiasmante. L’idée de contribuer à une application événementielle innovante, pensée pour améliorer l’expérience des utilisateurs et des organisateurs, correspond à la fois à mon intérêt pour les projets à impact et à mon envie de travailler dans un environnement collaboratif, créatif et stimulant.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage ou une alternance à partir de septembre 2025. Je maîtrise JavaScript et TypeScript, et j’ai une expérience dans le développement d’applications.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage à partir de septembre 2025. Je maîtrise JavaScript/TypeScript et j’ai une expérience concrète avec React et Next.js pour la création d’interfaces dynamiques et performantes. Je suis également familier avec React Native pour le développement mobile.
 
-Je suis intéressé par les concepts mathématiques nécessaires à la manipulation de données 3D (algèbre linéaire, transformations, projections) et motivé par l’intégration de données issues d’imageries médicales (CT, IRM) pour créer des visualisations précises et utiles. Mon intérêt pour la XR est renforcé par mon attrait pour le développement d’expériences immersives.
+Mes projets m’ont amené à intégrer des APIs, optimiser les performances front-end et résoudre des bugs en autonomie tout en respectant les bonnes pratiques de développement. J’accorde une attention particulière à la communication au sein de l’équipe, que ce soit pour coordonner l’intégration avec le back-end ou pour proposer des améliorations UX/UI. Mon objectif est de livrer un code maintenable, performant et agréable à faire évoluer.
     `.trim(),
     conclusion: `
-Rejoindre GE HealthCare serait pour moi l’occasion de contribuer à un projet innovant au croisement de la santé et de la technologie, tout en apprenant aux côtés d’experts reconnus. Je serais ravi de mettre mon énergie et mes compétences au service de votre mission et d’échanger avec vous pour discuter plus en détail de ma candidature.
+Rejoindre l’équipe de Tonight Pass me permettrait de contribuer à un projet innovant tout en continuant à développer mes compétences dans un environnement bienveillant et passionné. Je serais ravi de mettre mon énergie et mes compétences au service de votre produit et d’apprendre aux côtés de votre équipe technique expérimentée.
 
-Vous trouverez mon CV en pièce jointe, et mes réalisations sont consultables sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
+Vous trouverez mon CV en pièce jointe et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700). Je reste à votre disposition pour échanger sur ma candidature.
     `.trim(),
   },
   closing: {
