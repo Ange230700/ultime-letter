@@ -38,20 +38,25 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Ipsos Synthesio",
-    recipientAddress: "Paris, France",
+    recipientCompany: "GE HealthCare",
+    recipientAddress: "Buc, France",
   },
-  subject: "Candidature – Alternance Front End Engineer",
+  subject:
+    "Candidature – Stage/Alternance Ingénieur – Réalité étendue sur application web",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Intégrer Ipsos Synthesio, avec sa mission d’exploiter des ensembles de données massifs pour fournir des insights clairs et actionnables, représente pour moi l’opportunité idéale d’allier mes compétences en développement front-end et mon intérêt pour l’analyse de données à grande échelle. Votre engagement pour l’innovation, l’UX et la qualité logicielle correspond parfaitement à mes aspirations professionnelles.
+L’opportunité de contribuer au développement d’un outil web innovant basé sur la réalité mixte pour GE HealthCare représente pour moi un projet à la fois technique et porteur de sens. La perspective de mettre la XR et les technologies 3D au service de la formation médicale, de la préparation d’interventions et du suivi des patients correspond à mes aspirations professionnelles et à ma volonté de participer à des solutions ayant un impact concret sur la santé.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une alternance de 12 à 24 mois à partir de septembre 2025. Je maîtrise JavaScript/TypeScript, HTML5 et CSS3, et j’ai déjà conçu des interfaces dynamiques avec React, en intégrant des APIs REST et en développant des composants réutilisables dans une architecture modulaire. Mes projets m’ont permis de travailler sur des visualisations de données, d’optimiser le rendu pour améliorer l’expérience utilisateur et de mettre en place des pratiques de qualité comme les tests unitaires (Vitest) et end-to-end. Rigoureux et curieux, j’apprécie de travailler en équipe dans des environnements agiles. Je suis particulièrement motivé par l’idée de contribuer à la création de dashboards et visualisations intuitives permettant de simplifier la complexité du Big Data pour vos utilisateurs, tout en respectant vos standards élevés de qualité et de performance.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage ou une alternance à partir de septembre 2025. Je maîtrise JavaScript et TypeScript, et j’ai une expérience dans le développement d’applications.
+
+Je suis intéressé par les concepts mathématiques nécessaires à la manipulation de données 3D (algèbre linéaire, transformations, projections) et motivé par l’intégration de données issues d’imageries médicales (CT, IRM) pour créer des visualisations précises et utiles. Mon intérêt pour la XR est renforcé par mon attrait pour le développement d’expériences immersives.
     `.trim(),
     conclusion: `
-Rejoindre Ipsos Synthesio me permettrait de mettre mes compétences techniques au service de projets ambitieux, tout en développant mon expertise dans le traitement et la présentation de données massives. Je serais heureux de contribuer à vos solutions innovantes et de participer à votre dynamique collaborative. Vous trouverez mon CV en pièce jointe et mes réalisations sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700). Je me tiens à votre disposition pour un entretien afin d’échanger sur ma candidature.
+Rejoindre GE HealthCare serait pour moi l’occasion de contribuer à un projet innovant au croisement de la santé et de la technologie, tout en apprenant aux côtés d’experts reconnus. Je serais ravi de mettre mon énergie et mes compétences au service de votre mission et d’échanger avec vous pour discuter plus en détail de ma candidature.
+
+Vous trouverez mon CV en pièce jointe, et mes réalisations sont consultables sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
