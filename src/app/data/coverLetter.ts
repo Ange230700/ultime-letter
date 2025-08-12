@@ -38,24 +38,24 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "12 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Davidson Consulting",
-    recipientAddress: "Boulogne-Billancourt, France",
+    recipientCompany: "SOCOTEC",
+    recipientAddress: "France",
   },
-  subject: "Candidature – Alternance Développeur Javascript (Front)",
+  subject: "Candidature – Stage Développeur Full Stack",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Davidson, par son engagement en faveur de l’innovation technologique, de l’éco-conception et de la qualité de vie au travail, représente pour moi l’environnement idéal pour évoluer en tant que développeur Javascript en alternance. L’opportunité de rejoindre une entreprise certifiée B Corp, reconnue Great Place To Work, et de contribuer à des outils internes utilisés par plus de 3 000 collaborateurs est à la fois motivante et alignée avec mes valeurs professionnelles.
+La plateforme IoT de SOCOTEC, avec ses enjeux techniques variés allant de l’intégration de données capteurs à la visualisation 3D BIM, représente pour moi un environnement idéal pour mettre en pratique mes compétences full stack et continuer à progresser. Participer au développement d’outils innovants, tout en travaillant aux côtés d’experts dans des domaines transdisciplinaires, correspond pleinement à mes aspirations.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche une alternance de deux ans à partir de septembre 2025. Je maîtrise JavaScript/TypeScript ainsi que React.js et Node.js, et j’ai également travaillé avec Vue.js sur des projets d’intégration et de développement d’interfaces dynamiques. Mon expérience inclut la mise en place de composants réutilisables, l’intégration d’APIs, la gestion de versions avec Git, et le déploiement via Docker dans un contexte CI/CD.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je recherche un stage de fin d’études à partir de septembre 2025. Je maîtrise JavaScript/TypeScript, React pour la création d’interfaces dynamiques et Node.js pour le développement d’APIs et la gestion de données côté serveur. J’ai également travaillé avec les bases de données relationnelles pour la structuration et l’optimisation des données, ainsi qu’avec Git et Github dans des environnements collaboratifs.
 
-Au fil de mes projets, j’ai appris à analyser les besoins utilisateurs, proposer des solutions techniques adaptées et assurer la qualité du code via tests et revues. Je suis motivé par la perspective de travailler sur le parc applicatif de Davidson, d’optimiser les outils internes et de contribuer à la recette, la mise en production et l’amélioration continue dans un environnement agile et collaboratif.
+Mes projets m’ont permis de développer des dashboards interactifs, de concevoir des systèmes d’alertes et de travailler sur l’intégration d’APIs externes. Je suis rigoureux dans l’écriture et la documentation du code, et à l’aise pour collaborer en méthode agile (SCRUM), notamment sur des projets complexes nécessitant coordination et évolutivité.
     `.trim(),
     conclusion: `
-Rejoindre l’équipe Twister au sein du pôle Web serait pour moi l’occasion d’évoluer aux côtés de développeurs expérimentés, de monter en compétences sur Vue.js, React.js, Node.js et Docker, et de contribuer à des projets concrets ayant un impact direct sur les utilisateurs finaux. Je serais heureux d’échanger avec vous afin de détailler ma motivation et mes réalisations.
+Rejoindre SOCOTEC me permettrait de contribuer activement à l’architecture et au développement de votre plateforme IoT, tout en approfondissant mes compétences sur des technologies de pointe comme le SIG, le BIM et les systèmes d’alertes en temps réel. Je serais heureux d’échanger avec vous pour discuter de ma candidature et de la manière dont je pourrais participer à vos projets.
 
-Vous trouverez mon CV en pièce jointe et mes projets sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700).
+Vous trouverez mon CV en pièce jointe, et mes réalisations sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
