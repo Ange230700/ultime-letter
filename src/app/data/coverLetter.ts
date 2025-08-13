@@ -41,8 +41,7 @@ const coverLetterData: CoverLetterData = {
     recipientCompany: "Chouic",
     recipientAddress: "Nantes, France",
   },
-  subject:
-    "Candidature spontanée – Stage / Alternance Développeur JS Full Stack",
+  subject: "Candidature – Stage Développeur React-Native",
   salutation: "Bonjour,",
   body: {
     introduction: `
