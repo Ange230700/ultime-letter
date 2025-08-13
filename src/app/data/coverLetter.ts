@@ -38,23 +38,23 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "13 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Monsieur TSHIRT",
-    recipientAddress: "Paris, France",
+    recipientCompany: "Chouic",
+    recipientAddress: "Nantes, France",
   },
   subject:
     "Candidature spontanée – Stage / Alternance Développeur JS Full Stack",
-  salutation: "Bonjour Madame, Monsieur,",
+  salutation: "Bonjour,",
   body: {
     introduction: `
-Séduit par la culture d’innovation et l’approche “circuit court” qui font la singularité de Monsieur TSHIRT, je souhaite vous proposer ma candidature spontanée pour un stage ou une alternance à partir de septembre 2025.
+Passionné par le développement web et mobile, et actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je souhaite vous proposer ma candidature pour le stage de Développeur React-Native à partir de septembre 2025.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je prépare un diplôme de niveau Master avec une spécialisation JavaScript/TypeScript. Mes expériences m’ont permis de développer des applications complètes en React côté front-end et Node.js côté back-end, avec une maîtrise de PostgreSQL/MySQL, de Git et des environnements Unix. J’ai également travaillé sur des intégrations API, des optimisations de performance, ainsi que des automatisations, ce qui rejoint parfaitement vos enjeux e-commerce et atelier.
+Au cours de mes projets récents, j’ai développé des applications complètes en React et React Native avec TypeScript, intégrant des API et optimisant l’expérience utilisateur. J’ai également travaillé sur des outils front-end et back-end, maîtrisant Git et les bonnes pratiques de code propre et maintenable. Mon intérêt pour la performance, le design intuitif et la typage fort me motive à créer des applications fiables et agréables à utiliser.
 
-Curieux et autonome, j’apprécie particulièrement de contribuer à des projets à fort impact, en prenant part à toutes les étapes : conception, développement, tests et déploiement. Votre environnement technique et vos valeurs – créativité, convivialité et exigence – sont en parfaite adéquation avec mon approche du métier.
+L’univers créatif de Chouic, vos projets à forte visibilité internationale, ainsi que votre volonté d’innover dans le divertissement mobile correspondent pleinement à mes aspirations. Je suis convaincu que mon sens du détail, ma curiosité technique et mon esprit d’équipe me permettront de contribuer efficacement à vos applications et à votre back-office.
     `.trim(),
     conclusion: `
-Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais contribuer aux projets techniques et à l’innovation au sein de votre équipe. Vous trouverez mon CV en pièce jointe, et mes projets sont visibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur GitHub (github.com/Ange230700).
+Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais apporter ma contribution à vos projets. Vous trouverez mon CV en pièce jointe, et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
