@@ -38,22 +38,26 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "13 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Chouic",
-    recipientAddress: "Nantes, France",
+    recipientCompany: "Experience Internship Canada",
+    recipientAddress: "France",
   },
-  subject: "Candidature – Stage Développeur React-Native",
-  salutation: "Bonjour,",
+  subject: "Candidature – Stage Développeur Front-End – IT (H/F)",
+  salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Passionné par le développement web et mobile, et actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je souhaite vous proposer ma candidature pour le stage de Développeur React-Native à partir de septembre 2025.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je souhaite mettre mes compétences en HTML, CSS, JavaScript et React au service d’un projet ambitieux et international. C’est avec un vif intérêt que je vous présente ma candidature pour un stage Front-End au sein d’Experience Internship Canada.
+
+Votre mission d’accompagner des étudiants dans une expérience professionnelle enrichissante à l’étranger résonne pleinement avec mes ambitions : évoluer dans un environnement multiculturel, relever des défis techniques concrets et contribuer à des projets à forte visibilité.
     `.trim(),
     mainContent: `
-Au cours de mes projets récents, j’ai développé des applications complètes en React et React Native avec TypeScript, intégrant des API et optimisant l’expérience utilisateur. J’ai également travaillé sur des outils front-end et back-end, maîtrisant Git et les bonnes pratiques de code propre et maintenable. Mon intérêt pour la performance, le design intuitif et la typage fort me motive à créer des applications fiables et agréables à utiliser.
+Au fil de mes projets académiques et personnels, j’ai développé des interfaces web responsives et performantes, en veillant à l’ergonomie, à l’accessibilité et à la qualité du code. Mon expérience inclut également l’utilisation de Git pour la gestion de version, ainsi que la collaboration avec des designers pour transformer des maquettes en expériences fluides.
 
-L’univers créatif de Chouic, vos projets à forte visibilité internationale, ainsi que votre volonté d’innover dans le divertissement mobile correspondent pleinement à mes aspirations. Je suis convaincu que mon sens du détail, ma curiosité technique et mon esprit d’équipe me permettront de contribuer efficacement à vos applications et à votre back-office.
+Rigoureux, curieux et doté d’un bon esprit d’équipe, je suis convaincu que je saurai m’intégrer rapidement dans votre dynamique et apporter une réelle valeur ajoutée à vos projets tout en m’enrichissant des pratiques professionnelles au Canada.
     `.trim(),
     conclusion: `
-Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais apporter ma contribution à vos projets. Vous trouverez mon CV en pièce jointe, et mes réalisations sont visibles sur mon portfolio (ultime-portfolio.vercel.app) et mon GitHub (github.com/Ange230700).
+Je serais ravi d’échanger avec vous afin de vous exposer plus en détail ma motivation et mes compétences.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
     `.trim(),
   },
   closing: {
