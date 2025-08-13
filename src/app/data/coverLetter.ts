@@ -46,15 +46,15 @@ const coverLetterData: CoverLetterData = {
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Attiré par votre esprit créatif, votre maîtrise du e-commerce personnalisé et votre environnement technique exigeant mais convivial, je souhaite vous proposer ma candidature pour un stage ou une alternance à partir de septembre 2025.
+Séduit par la culture d’innovation et l’approche “circuit court” qui font la singularité de Monsieur TSHIRT, je souhaite vous proposer ma candidature spontanée pour un stage ou une alternance à partir de septembre 2025.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je maîtrise JavaScript/TypeScript, React.js, Node.js et les bases de données PostgreSQL/MySQL, ainsi que Git et les environnements Unix. Mes projets m’ont permis d’intervenir sur des applications web complètes, de la conception à la mise en production, avec un souci constant de performance, de maintenabilité et d’optimisation UX.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je prépare un diplôme de niveau Master avec une spécialisation JavaScript/TypeScript. Mes expériences m’ont permis de développer des applications complètes en React côté front-end et Node.js côté back-end, avec une maîtrise de PostgreSQL/MySQL, de Git et des environnements Unix. J’ai également travaillé sur des intégrations API, des optimisations de performance, ainsi que des automatisations, ce qui rejoint parfaitement vos enjeux e-commerce et atelier.
+
+Curieux et autonome, j’apprécie particulièrement de contribuer à des projets à fort impact, en prenant part à toutes les étapes : conception, développement, tests et déploiement. Votre environnement technique et vos valeurs – créativité, convivialité et exigence – sont en parfaite adéquation avec mon approche du métier.
     `.trim(),
     conclusion: `
-Je serais ravi de contribuer à l’évolution de vos sites e-commerce, à la création d’outils internes et à l’automatisation des processus de production, tout en profitant de l’encadrement de votre équipe technique expérimentée. Votre culture de l’innovation et votre capacité à développer vos propres solutions sur-mesure correspondent parfaitement à mes ambitions professionnelles.
-
-Je vous remercie par avance pour l’attention portée à ma candidature et reste disponible pour échanger sur la manière dont je pourrais m’investir dans vos projets.
+Je serais ravi d’échanger avec vous afin de discuter de la manière dont je pourrais contribuer aux projets techniques et à l’innovation au sein de votre équipe. Vous trouverez mon CV en pièce jointe, et mes projets sont visibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur GitHub (github.com/Ange230700).
     `.trim(),
   },
   closing: {
