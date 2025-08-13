@@ -38,25 +38,23 @@ const coverLetterData: CoverLetterData = {
     senderPhone: "+33 7 59 80 23 43",
     date: "13 août 2025",
     recipientName: "À l’attention de l’équipe Recrutement",
-    recipientCompany: "Delos",
-    recipientAddress: "Paris 7, France",
+    recipientCompany: "Monsieur TSHIRT",
+    recipientAddress: "Paris, France",
   },
   subject:
-    "Candidature spontanée – Stage / Alternance Développeur Frontend React/Next.js",
+    "Candidature spontanée – Stage / Alternance Développeur JS Full Stack",
   salutation: "Bonjour Madame, Monsieur,",
   body: {
     introduction: `
-Votre ambition de révolutionner le monde des suites bureautiques grâce à l’IA souveraine française, et la vision portée par Delos.so, résonnent particulièrement avec mes aspirations. Je souhaite vous proposer ma candidature spontanée pour un stage ou une alternance à partir de septembre 2025, convaincu que mes compétences techniques et ma motivation peuvent contribuer à vos projets.
+Attiré par votre esprit créatif, votre maîtrise du e-commerce personnalisé et votre environnement technique exigeant mais convivial, je souhaite vous proposer ma candidature pour un stage ou une alternance à partir de septembre 2025.
     `.trim(),
     mainContent: `
-Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile à ADA Tech School, je prépare un diplôme de niveau Master. Je maîtrise JavaScript/TypeScript et React, ainsi que Next.js, et j’ai travaillé sur des projets mettant en œuvre l’App Router, la gestion d’état avec hooks, et la création de composants réutilisables. Je suis également à l’aise avec TailwindCSS pour concevoir des interfaces performantes et responsives, et j’accorde une attention particulière à l’optimisation et à la qualité du code.
-
-Au fil de mes projets, j’ai collaboré étroitement avec des designers et des développeurs backend, intégré des APIs, et participé à des prises de décisions techniques en visant toujours un équilibre entre performance, maintenabilité et expérience utilisateur. Mon intérêt pour l’IA et les LLMs, ainsi que ma curiosité pour les technologies comme Supabase et PostgreSQL, m’amènent à vouloir m’investir dans un environnement innovant tel que le vôtre.
+Actuellement en formation de Concepteur-Développeur d’Applications Web & Mobile, je maîtrise JavaScript/TypeScript, React.js, Node.js et les bases de données PostgreSQL/MySQL, ainsi que Git et les environnements Unix. Mes projets m’ont permis d’intervenir sur des applications web complètes, de la conception à la mise en production, avec un souci constant de performance, de maintenabilité et d’optimisation UX.
     `.trim(),
     conclusion: `
-Intégrer Delos en stage ou alternance serait pour moi l’opportunité de contribuer au développement d’un produit ambitieux et innovant, tout en évoluant au contact d’une équipe passionnée et expérimentée. Je serais ravi d’échanger avec vous afin de discuter plus en détail de ma candidature et de la manière dont je pourrais participer à la construction de vos applications.
+Je serais ravi de contribuer à l’évolution de vos sites e-commerce, à la création d’outils internes et à l’automatisation des processus de production, tout en profitant de l’encadrement de votre équipe technique expérimentée. Votre culture de l’innovation et votre capacité à développer vos propres solutions sur-mesure correspondent parfaitement à mes ambitions professionnelles.
 
-Vous trouverez mon CV en pièce jointe, et mes projets sont disponibles sur mon portfolio (ultime-portfolio.vercel.app) ainsi que sur mon GitHub (github.com/Ange230700).
+Je vous remercie par avance pour l’attention portée à ma candidature et reste disponible pour échanger sur la manière dont je pourrais m’investir dans vos projets.
     `.trim(),
   },
   closing: {
